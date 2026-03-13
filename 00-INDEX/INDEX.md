@@ -112,3 +112,60 @@
 - [[2026-03-13-Vault-Build]] — This session: full analysis + vault creation
 - [[CHANGELOG]] — All project changes by date
 - [[SESSION-LOG]] — MCPs, analysis, decisions per session
+
+## 11 — Research Intelligence
+> Deep research context bank — read by all agents before generating content.
+
+### Synthesis
+- [[Research-Synthesis]] — Master intelligence brief connecting all 7 domains
+- [[Research-Digest]] — Condensed 1-page brief for cron agents (read FIRST every morning)
+
+### Competitors (13 analyzed)
+- [[Competitor-Holistiplan]] — Tax planning OCR, $449-$30K/yr, 30K users
+- [[Competitor-FP-Alpha]] — Estate/tax/insurance AI, $1,790-$1,995/yr
+- [[Competitor-Jump-VRGL]] — AI meeting OS + portfolio comparison, $80M Series B
+- [[Competitor-Pulse360]] — Meeting notes + deliverables, $49-79/mo
+- [[Competitor-Nitrogen-Riskalyze]] — Risk assessment, $99-395/mo, 30K advisors
+- [[Competitor-Zocks]] — AI note-taking (no recording), $130-150/mo, $45M Series B
+- [[Competitor-Altruist-Hazel]] — Custodian AI platform, $60-125/seat/mo, $152M funded (DEEP DIVE)
+- [[Competitor-Orion-AI]] — Enterprise portfolio mgmt, $5.8T AUA
+- [[Competitor-Kwanti]] — Portfolio analytics, $195-575/mo
+- [[Competitor-Conquest-Planning]] — Financial planning AI, $200/mo, Canada leader
+- [[Competitor-RightCapital]] — Financial planning, $125-150/mo, Smart Import AI
+- [[Competitor-eMoney-Advisor]] — Financial planning, ~$375/mo, CoPlanner AI
+- [[Competitor-Matrix]] — Master comparison table, all 13 + Advisor Intelligence
+
+### Advisor Insights
+- [[Advisor-Pain-Points]] — Top 15 pain points ranked by frequency, 30 direct quotes
+- [[Advisor-Language-Bank]] — 130+ sourced phrases, voice-of-customer swipe file
+- [[Advisor-AI-Sentiment]] — 5 advisor segments, fears, hopes, messaging strategy
+
+### SEO & Content
+- [[SEO-Keyword-Map]] — 50+ keywords, 7 categories, prioritized content roadmap
+- [[AEO-Opportunities]] — 30+ AI answer engine target questions, content briefs
+- [[SERP-Analysis]] — Page 1 analysis for top 10 keywords
+
+### LinkedIn
+- [[LinkedIn-Content-Analysis]] — 15 high-performing post patterns, algorithm insights
+- [[LinkedIn-Hashtag-Map]] — 30+ hashtags, usage strategy, keywords
+- [[LinkedIn-Influencer-Map]] — 8 influencers, engagement strategy, "Waffle House" targets
+- [[LinkedIn-Competitor-Content]] — Competitor LinkedIn analysis, content gaps, 10 post ideas
+
+### Industry & Prospects
+- [[RIA-Industry-Intel]] — Market size, AI adoption, M&A, fee compression, talent gap
+- [[San-Diego-RIA-Map]] — 200+ RIAs, geographic clusters, tech adoption indicators
+- [[San-Diego-Top-20-Prospects]] — 9 Priority A firms, personalized outreach angles
+- [[Conference-Calendar]] — 30+ events in 2026, relevance scores, budget estimates
+
+### Client Intelligence
+- [[DLK-Deep-Dive]] — $348-435M AUM, 6 advisors, 470 clients, meeting prep for March 16
+- [[Client-Mark-Halby]] — CRD 5536243, CFP/AIF at DLK, SDSU alum
+- [[Client-Anthony-Baker]] — CRD 2709299, Morgan Stanley San Diego, 17yr experience
+- [[Client-Jaden-Matson]] — Apartment Realty Group, Solana Beach, referral source
+- [[Client-Tim]] — Unknown last name, research pending
+- [[Client-Will]] — Unknown last name, research pending
+
+### Email & Onboarding
+- [[Email-Best-Practices]] — 7-day trial sequence, nurture, re-engagement, Resend implementation
+- [[Email-Compliance-Guide]] — SEC/FINRA/CAN-SPAM rules (we're a tech vendor, not an IA)
+- [[Competitor-Email-Teardown]] — 6 competitor + 6 best-in-class SaaS email flows

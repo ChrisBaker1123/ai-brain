@@ -10,14 +10,20 @@
 - **Interest**: Toolkit + potentially white-label platform
 - **Details**: [[DLK-Engagement]]
 
-## Contacts
-| Name | Context | Status |
-|------|---------|--------|
-| Tim | Advisor contact | Unknown |
-| Will | Advisor contact | Unknown |
-| Mark | Advisor contact | Unknown |
-| Jaden Matson | Contact | Unknown |
-| Anthony Baker | Contact (family?) | Unknown |
+## Contacts (Updated 2026-03-13 — SEC Research)
+| Name | Context | Identified Firm | Status | Research |
+|------|---------|----------------|--------|----------|
+| Tim | Advisor contact | **Unknown — need last name** | Unknown | [[Client-Tim]] |
+| Will | Advisor contact | **Unknown — need last name** | Unknown | [[Client-Will]] |
+| Mark | Advisor contact | **Likely Mark Halby, CFP, AIF at DLK** (CRD 5536243, SDSU grad, FPA board) | Warm — connected via DLK | [[Client-Mark-Halby]] |
+| Jaden Matson | Contact | Apartment Realty Group, San Diego (multifamily real estate, not RIA) | Referral source | [[Client-Jaden-Matson]] |
+| Anthony Baker | Contact (family?) | **Possible**: Anthony Baker at Morgan Stanley San Diego (13 yrs, Series 63/65) — **needs confirmation** | Unknown | [[Client-Anthony-Baker]] |
+
+### Research Gaps — Action Required
+- [ ] Get last names for Tim and Will to run SEC/FINRA lookups
+- [ ] Confirm: Is Mark = Mark Halby at DLK?
+- [ ] Confirm: Is Anthony Baker family or the Morgan Stanley advisor?
+- [ ] Ask Jaden Matson for referrals to financial advisors in his investor network
 
 ## Pipeline Stage Definitions
 | Stage | Description |

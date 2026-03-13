@@ -45,6 +45,18 @@
 7. "What Financial Advisors Get Wrong About AI Compliance"
 8. "From Skeptic to Power User: An Advisor's AI Journey"
 
+## Production Log
+
+### 2026-03-13 (Friday)
+
+| Channel | Content | File | Status |
+|---------|---------|------|--------|
+| LinkedIn | Post 1: "The Copy-Paste AI Workflow" (carousel/document, 7 slides) | [[2026-03-13 linkedin]] | Draft — schedule Tue 3/17 |
+| LinkedIn | Post 2: "Why I Built an AI Tool for an Industry I Don't Work In" (text-only personal story) | [[2026-03-13 linkedin]] | Draft — post today Fri 3/13 |
+| LinkedIn | Post 3: "How to Write a Client Follow-Up Email in 90 Seconds" (educational how-to) | [[2026-03-13 linkedin]] | Draft — schedule Thu 3/19 |
+| Blog | "How Financial Advisors Can Use AI Without Compliance Risk" (outline, ~1,300 words) | [[2026-03-13 blog]] | Outline — target Wed 3/18 publish |
+| Email | Onboarding Email 2: Quick Win / Day 1 (revised 7-email sequence) | [[2026-03-13 email]] | Draft — pending Resend setup |
+
 ## Related Notes
 - [[Marketing-Strategy]] — Overall strategy
 - [[LinkedIn-Playbook]] — LinkedIn specifics

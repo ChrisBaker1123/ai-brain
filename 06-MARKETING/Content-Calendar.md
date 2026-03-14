@@ -57,6 +57,16 @@
 | Blog | "How Financial Advisors Can Use AI Without Compliance Risk" (outline, ~1,300 words) | [[2026-03-13 blog]] | Outline — target Wed 3/18 publish |
 | Email | Onboarding Email 2: Quick Win / Day 1 (revised 7-email sequence) | [[2026-03-13 email]] | Draft — pending Resend setup |
 
+### 2026-03-14 (Saturday)
+
+| Channel | Content | File | Status |
+|---------|---------|------|--------|
+| LinkedIn | Post 1: "The Missing Piece in Your Advisor Tech Stack" (carousel/document, 8 slides) | [[2026-03-14 linkedin]] | Draft — schedule Tue 3/18 |
+| LinkedIn | Post 2: "The First Advisor Who Said No" (text-only personal story) | [[2026-03-14 linkedin]] | Draft — schedule Wed 3/19 |
+| LinkedIn | Post 3: "How to Prep for a Client Meeting in 3 Minutes with AI" (educational how-to) | [[2026-03-14 linkedin]] | Draft — schedule Thu 3/20 |
+| Blog | "5 Client Emails Every Advisor Should Automate with AI" (outline, ~1,300 words) | [[2026-03-14 blog]] | Outline — target publish week of 3/23 |
+| Email | Onboarding Email 3: Feature Discovery / Day 2 (Document Builder intro) | [[2026-03-14 email]] | Draft — pending Resend setup |
+
 ## Related Notes
 - [[Marketing-Strategy]] — Overall strategy
 - [[LinkedIn-Playbook]] — LinkedIn specifics

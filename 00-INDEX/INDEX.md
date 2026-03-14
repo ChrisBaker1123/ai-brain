@@ -39,7 +39,7 @@
 
 ### Dashboard
 - [[Page-Dashboard]] — Personalized action cards, AI Coach link
-- [[Page-Toolkit]] — 61 templates, 11 categories, search + filter
+- [[Page-Toolkit]] — 68 templates, 8 categories, search + filter
 - [[Page-Toolkit-Category]] — Category deep-link redirect
 - [[Page-Documents]] — 20 document templates, 6 categories
 - [[Page-Chat]] — Full-page AI Coach (Claude streaming via SSE)

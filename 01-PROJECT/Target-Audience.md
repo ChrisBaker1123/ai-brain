@@ -22,14 +22,24 @@
 - $1B+ (large firms and family offices)
 
 ### Pain Points (Why They Buy)
-1. **Time on admin** — Spending 5+ hours/week writing emails, meeting prep, follow-ups
-2. **Email drafting** — Every client email takes 15-25 minutes from scratch
-3. **Meeting prep** — Gathering context, building agendas, pre-meeting research
-4. **Keeping up with AI** — Know they should use it, don't know how to start
-5. **Compliance fears** — Terrified of saying the wrong thing to regulators
-6. **Generic AI output** — ChatGPT gives generic, non-personalized content
-7. **Consistency** — Different quality every time they prompt AI tools
-8. **Client education** — Explaining complex concepts in accessible language
+1. **Meeting prep** — Spending 1+ hour prepping for every hour of client meetings (no system generates meeting briefs)
+2. **Post-meeting follow-ups** — 30-60 minutes per meeting to write follow-up email + CRM note (no system writes these)
+3. **Email drafting** — Every client email takes 15-25 minutes from scratch (43% already use AI for this)
+4. **Time on admin** — 22.1 hours/week (41.4%) on admin tasks, much of it writing
+5. **Content creation** — LinkedIn, newsletters, blog posts — most advisors skip entirely
+6. **Prospecting outreach** — Writing cold emails, COI letters, referral requests from scratch
+7. **Client education** — Explaining complex concepts in accessible language (planning software generates jargon, not plain language)
+8. **Compliance fears** — Worried about using AI wrong in a regulated industry
+
+### What They Will NOT Use AI For (key insight from coaching sessions)
+- Portfolio construction — they have Orion, Black Diamond, Envestnet
+- Tax analysis — they have Holistiplan, FP Alpha
+- Financial planning — they have eMoney, MoneyGuidePro, RightCapital
+- Risk assessment — they have Riskalyze/Nitrogen
+- Performance reporting — custodian systems handle this
+- Compliance monitoring — compliance departments and RegEd
+
+Templates for these functions **hurt credibility**. See [[Product-Strategy-Pivot]].
 
 ### What They Value
 - **Trust** — Won't use tools that feel sketchy or unproven

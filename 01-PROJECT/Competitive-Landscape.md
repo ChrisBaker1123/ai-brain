@@ -36,23 +36,36 @@ The AI-for-financial-advisors space is emerging. Most advisors use generic AI to
 - **Weaknesses**: Locked into their ecosystem, limited template variety
 - **Our differentiation**: Platform-agnostic, works with any AI tool, broader categories
 
-## Our Positioning
-**"The AI toolkit that works with your firm's tools, not instead of them."**
+## Our Positioning (updated 2026-03-14)
+**"The AI layer for everything your existing systems don't cover."**
 
 Key differentiators:
-1. **Copy-paste model** — Client data never enters our platform
-2. **Compliance-aware** — SEC/FINRA/Reg BI references in every template
-3. **Firm-type specific** — Adapts for RIAs, wirehouses, broker-dealers
-4. **Personalized** — Auto-injects advisor name, firm, tone, credentials
+1. **Gap-filler, not replacement** — We complement eMoney, Holistiplan, Riskalyze, Orion — not compete with them
+2. **Workflow-organized** — Templates organized by what advisors DO (meeting prep, follow-ups, emails) not by planning function
+3. **Copy-paste model** — Client data never enters our platform
+4. **Compliance-aware** — SEC/FINRA/Reg BI references in every template
 5. **Zero learning curve** — No prompt engineering required
-6. **Works WITH existing AI tools** — Not a replacement, an enhancement
+6. **Works WITH existing AI tools** — Copilot, ChatGPT, or any AI assistant
+
+The "stack" positioning:
+```
+Planning:     eMoney/RightCapital/MoneyGuide    → builds the plan
+Tax:          Holistiplan/FP Alpha              → analyzes the returns
+Risk:         Nitrogen/Riskalyze                → assesses the risk
+Meetings:     Jump/Zocks/Pulse360               → documents the meetings
+Proposals:    VRGL/Kwanti                       → generates the proposals
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MISSING:      ★ Advisor Intelligence ★          → creates the content
+```
 
 ## Market Opportunity
-- ~300,000 financial advisors in the US
-- AI adoption in financial services growing rapidly
-- Most advisors stuck at "I know I should use AI but don't know how"
-- Compliance fear is the #1 barrier — we directly address it
-- Microsoft Copilot adoption in firms accelerating
+- ~300,000 financial advisors in the US, 85% view AI as a "help" (Advisor360 2025)
+- 43% already use AI for email drafting (Horsesmouth 2025) — but with generic tools
+- $363M+ in recent VC funding for advisor AI tools validates the market
+- No funded competitor fills the communication/content gap — all focus on analysis, meetings, or planning
+- 15-25 hours/week of advisor time is spent on communication/documentation that no system covers
+
+See [[Product-Strategy-Pivot]] and [[AI-Gap-Analysis]] for full analysis.
 
 ## Related Notes
 - [[Overview]] — Business context

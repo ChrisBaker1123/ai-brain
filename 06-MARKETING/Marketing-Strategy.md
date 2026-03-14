@@ -40,8 +40,17 @@ Pre-launch / early access. No paying users yet. 4 advisor profiles in database.
 4. **Copilot integration story** — Microsoft Copilot adoption in firms is accelerating
 5. **DLK engagement** — First firm adoption creates case study + referral potential
 
-## Positioning
-"The AI toolkit that works with your firm's tools, not instead of them."
+## Positioning (updated 2026-03-14)
+**Old**: "The AI toolkit that works with your firm's tools, not instead of them."
+**New**: "The AI layer for everything your existing systems don't cover — meeting prep, follow-ups, client emails, prospecting, and content creation."
+
+### Key Messaging Principles
+1. **Never position as replacement for existing systems** — always "complements," "fills the gap between"
+2. **Lead with workflow, not technology** — "Meeting prep in 30 seconds" beats "AI-powered template toolkit"
+3. **Name the systems advisors use** — "Your eMoney builds the plan. Your Holistiplan analyzes the return. We write the follow-up email."
+4. **Quantify the gap** — "Advisors spend 15-25 hours/week on communication that no software covers"
+
+See [[Product-Strategy-Pivot]] for full strategy.
 
 ## Key Metrics to Track
 - Signups (total, weekly)

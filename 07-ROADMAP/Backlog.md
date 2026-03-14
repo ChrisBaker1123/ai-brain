@@ -3,11 +3,12 @@
 #roadmap #backlog
 
 ## High Priority
+0. **Product Strategy Pivot implementation** — Reorganize templates from 11 planning-function categories to 8 workflow categories. Remove 13 system-redundant templates. Reframe 18 templates. Build 19 new gap-filler templates. See [[Product-Strategy-Pivot]].
 1. **Configure Stripe webhook** — Set `STRIPE_WEBHOOK_SECRET` env var after configuring webhook in Stripe Dashboard. Blocks payment processing.
 2. **Set ADMIN_USER_ID** — In Vercel env vars. Currently relying on ADMIN_EMAIL only.
 3. **Google OAuth** — Configure in Supabase, set `NEXT_PUBLIC_SUPABASE_GOOGLE_CLIENT_ID`.
 4. **Email sequences** — Set up Resend, configure `RESEND_API_KEY`, build onboarding sequence. See [[Email-Strategy]].
-5. **Blog** — Create blog section for SEO. See [[Content-Calendar]] for post ideas.
+5. **Blog** — Create blog section for SEO. First post: "Why We Reorganized Our Templates." See [[Content-Calendar]].
 6. **Booking integration** — Set up Cal.com/Calendly, configure `NEXT_PUBLIC_BOOKING_URL`. See [[Page-Book]].
 
 ## Medium Priority

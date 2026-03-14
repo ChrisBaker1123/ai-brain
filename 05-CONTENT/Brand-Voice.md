@@ -40,7 +40,9 @@
 - **Always distinguish "compliance-aware" from "compliance-approved"** — We reference regulations, we don't provide legal advice
 - **Use "templates" not "prompts"** — User-facing language convention
 - **Copilot-first** — Primary AI tool reference is Microsoft Copilot, not ChatGPT
-- **Be specific** — "61 templates across 11 categories" beats "dozens of templates"
+- **Be specific** — "68 templates across 8 workflow categories" beats "dozens of templates"
+- **Never position as replacement for existing systems** — Never suggest we replace eMoney, Holistiplan, Riskalyze, Orion, or any planning/analysis software. Always "complements," "fills the gap between," "handles what your other tools don't." (added 2026-03-14, see [[Product-Strategy-Pivot]])
+- **Organize language around workflow, not planning functions** — Say "meeting prep," "follow-up emails," "CRM notes" — not "tax planning templates," "retirement planning tools," "portfolio analysis"
 
 ## Tone Variations by Context
 | Context | Tone | Example |

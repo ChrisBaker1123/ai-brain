@@ -1,6 +1,6 @@
 # Advisor Intelligence — Knowledge Base
 
-> **Last updated**: 2026-03-13
+> **Last updated**: 2026-03-15
 > **Product**: AI prompt toolkit SaaS for financial advisors
 > **Founder**: Christopher Baker (SDSU, San Diego)
 > **Live**: https://www.advisorintelligence.app
@@ -107,6 +107,7 @@
 - [[DLK-Engagement]] — ~$350M AUM RIA prospect, Solana Beach
 - [[White-Label-Platform]] — Custom branded platform concept
 - [[Client-Pipeline]] — All prospects and contacts
+- [[Template-Pivot-Implementation]] — 8-category restructure implementation plan
 
 ## 08 — Session Logs
 - [[2026-03-13-Vault-Build]] — This session: full analysis + vault creation
@@ -157,13 +158,30 @@
 - [[San-Diego-Top-20-Prospects]] — 9 Priority A firms, personalized outreach angles
 - [[Conference-Calendar]] — 30+ events in 2026, relevance scores, budget estimates
 
+### Strategy
+- [[Product-Strategy-Pivot]] — Template audit, gap-filler repositioning (2026-03-14)
+- [[Advisor-Existing-Systems]] — What systems advisors already use
+- [[AI-Gap-Analysis]] — Market gaps in advisor AI tools
+- [[Template-Competitive-Analysis]] — Template coverage vs competitors
+- [[Advisor-AI-Usage-Reality]] — How advisors actually use AI today
+
 ### Client Intelligence
 - [[DLK-Deep-Dive]] — $348-435M AUM, 6 advisors, 470 clients, meeting prep for March 16
 - [[Client-Mark-Halby]] — CRD 5536243, CFP/AIF at DLK, SDSU alum
-- [[Client-Anthony-Baker]] — CRD 2709299, Morgan Stanley San Diego, 17yr experience
+- [[Client-Anthony-Baker]] — CRD 2709299, Morgan Stanley San Diego, 30yr experience
 - [[Client-Jaden-Matson]] — Apartment Realty Group, Solana Beach, referral source
-- [[Client-Tim]] — Unknown last name, research pending
-- [[Client-Will]] — Unknown last name, research pending
+- [[Client-Tim]] — Now identified: Tim Mehrer, Morgan Stanley (see 12-CONTACTS)
+- [[Client-Will]] — Now identified: Will Jones, CFP®, Wells Fargo (see 12-CONTACTS)
+
+## 12 — Contacts Directory
+> Client and prospect profiles with ADV research, relationship history, and engagement strategy.
+
+- [[12-CONTACTS/INDEX]] — Contact directory overview
+- [[Contact-Halby-Mark]] — Mark Halby, CFP®/AIF® at DLK (CRD 5536243) — priority prospect, SDSU alum
+- [[Contact-Jones-Will]] — Will Jones, CFP® at Wells Fargo (Rancho Santa Fe) — active client, SDSU alum, Forbes 2025
+- [[Contact-Baker-Anthony]] — Anthony Baker at Morgan Stanley (CRD 2709299) — 30yr career, possible family
+- [[Contact-Fitzpatrick-Jane]] — Jane Fitzpatrick, VP at Morgan Stanley Lewis/Westendorf (CRD 1009904) — Forbes 2026, 42yr veteran
+- [[Contact-Mehrer-Tim]] — Tim Mehrer at Morgan Stanley Frachon Group (CRD 5031463) — Family Wealth Advisor
 
 ### Email & Onboarding
 - [[Email-Best-Practices]] — 7-day trial sequence, nurture, re-engagement, Resend implementation

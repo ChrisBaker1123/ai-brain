@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-03-15
+- System self-evaluation and optimization session
+- CLAUDE.md rewrite: 110→76 lines, 1540→961 tokens (removed architecture tree, targeted vault reads)
+- Memory cleanup: MEMORY.md 172→42 lines, fixed SCSU→SDSU bug, removed duplicate user file
+- Cron optimization: removed 4 dead tmux entries, vault sync 2min→10min, tightened budgets
+- Hooks added: auto-format.sh (PostToolUse), output-secrets-scanner.sh (PostToolUse)
+- Vault INDEX.md updated with 5 missing research notes
+- Created [[Self-Improvement-Playbook]] — system optimization reference
+
+## 2026-03-14
+- Product Strategy Pivot: full template audit (61→68 templates, 11→8 categories)
+- 13 templates removed, 18 rethought, 20 new templates created
+- Created [[Product-Strategy-Pivot]] and [[Template-Pivot-Implementation]]
+
 ## 2026-03-13
 - Built Obsidian knowledge base vault with 60+ notes across 9 sections
 - Analyzed full codebase, Supabase schema, live site, git history

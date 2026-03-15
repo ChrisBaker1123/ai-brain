@@ -184,20 +184,22 @@ Pattern: Search → Extract → Synthesize → Save to vault
 
 ## Future Improvements
 
-### High Priority
-1. **Session summary hook** — Install session-summary.sh from ultimate guide to track costs per session
-2. **Dangerous actions blocker** — Install with ALLOWED_PATHS for vault + marketing-agents
-3. **Pre-commit secrets check** — Prevent accidental credential commits
+### High Priority (from research)
+1. **ccflare/better-ccflare** — Web dashboard for cost tracking across all agents and cron jobs (github.com/tombii/better-ccflare)
+2. **Dippy** — Auto-approve safe bash commands via AST parsing, reduces permission fatigue (github.com/ldayton/Dippy)
+3. **TypeScript Quality Hooks** — Auto TS compilation + ESLint + Prettier on every file write (github.com/bartolli/claude-code-typescript-hooks)
+4. **recall** — Full-text search across all past sessions (github.com/zippoxer/recall)
 
 ### Medium Priority
-4. **GSD project setup** — Run /gsd:new-project to get structured planning for the next milestone
-5. **TypeScript typecheck hook** — Catch type errors immediately after edits
-6. **Canary check CI** — Run weekly via cron to detect CLAUDE.md drift
+5. **Session summary hook** — Install session-summary.sh from ultimate guide
+6. **GSD project setup** — Run /gsd:new-project for structured planning
+7. **`.claude/rules/` directory** — Move stable rules out of CLAUDE.md for permanence
+8. **Claude Squad** — Manage multiple agent instances from single terminal (github.com/smtg-ai/claude-squad)
 
 ### Low Priority
-7. **Context assembler** — If project grows significantly, modularize CLAUDE.md with @imports
-8. **Cost tracking dashboard** — Aggregate session-summary JSONL logs
-9. **Auto-rename sessions** — Use auto-rename-session.sh for better session history
+9. **Context assembler** — Modularize CLAUDE.md with @imports if project grows
+10. **parry** — Prompt injection scanner for hooks (github.com/vaporif/parry)
+11. **Auto-rename sessions** — Use auto-rename-session.sh for better history
 
 ---
 

@@ -67,6 +67,16 @@
 | Blog | "5 Client Emails Every Advisor Should Automate with AI" (outline, ~1,300 words) | [[2026-03-14 blog]] | Outline — target publish week of 3/23 |
 | Email | Onboarding Email 3: Feature Discovery / Day 2 (Document Builder intro) | [[2026-03-14 email]] | Draft — pending Resend setup |
 
+### 2026-03-16 (Sunday)
+
+| Channel | Content | File | Status |
+|---------|---------|------|--------|
+| LinkedIn | Post 1: "Why Your Client Data Should Never Touch an AI Platform" (carousel/document, 7 slides) | [[2026-03-16 linkedin]] | Draft — schedule Tue 3/18 |
+| LinkedIn | Post 2: "I Grew Up at the Dinner Table Hearing About Client Calls" (text-only personal story) | [[2026-03-16 linkedin]] | Draft — schedule Wed 3/19 |
+| LinkedIn | Post 3: "How to Write a Market Volatility Email to Clients in 2 Minutes" (educational how-to) | [[2026-03-16 linkedin]] | Draft — schedule Thu 3/20 |
+| Blog | "AI for RIAs: A Practical Guide to Getting Started in 2026" (outline, ~1,200 words) | [[2026-03-16 blog]] | Outline — target publish week of 3/23 |
+| Email | Onboarding Email 4: Compliance Trust / Day 3 ("Is this compliant?") | [[2026-03-16 email]] | Draft — pending Resend setup |
+
 ## Related Notes
 - [[Marketing-Strategy]] — Overall strategy
 - [[LinkedIn-Playbook]] — LinkedIn specifics

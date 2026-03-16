@@ -67,9 +67,15 @@ MISSING:      ★ Advisor Intelligence ★          → creates the content
 
 See [[Product-Strategy-Pivot]] and [[AI-Gap-Analysis]] for full analysis.
 
+## Strategic Note: Dan Skiles / Altruist Connection
+
+Dan Skiles ([[Mentor-Dan-Skiles]]) is a mentor through SDSU Fowler Scholars and sits on the Fowler College of Business board. He works at Altruist, which has Hazel AI — a direct competitor in the advisor AI space. This connection is strategically significant: Dan provides industry insight from inside a major player, while Advisor Intelligence maintains a complementary (not competitive) positioning. We're the communication layer; Hazel is the platform AI. These can coexist. See [[Mentor-Dan-Skiles]] for full analysis.
+
 ## Related Notes
 - [[Overview]] — Business context
 - [[Target-Audience]] — Who we're selling to
 - [[Marketing-Strategy]] — Go-to-market plan
 - [[Page-Compare]] — Our comparison page
 - [[Page-Pricing]] — How we price against alternatives
+- [[Mentor-Dan-Skiles]] — Altruist connection through Fowler Scholars
+- [[Competitor-Altruist-Hazel]] — Altruist's AI product deep dive

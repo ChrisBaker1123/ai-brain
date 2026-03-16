@@ -30,3 +30,5 @@
 - [[Backlog]] — Prioritized work
 - [[White-Label-Platform]] — White-label concept
 - [[Client-Pipeline]] — Prospects
+- [[Investment-Thesis]] — Cri's personal AI investing thesis (connects to product direction)
+- [[Business-Strategy-Master-Plan]] — How product ideas feed the 3-phase plan

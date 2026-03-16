@@ -4,9 +4,9 @@ type: contact
 date: 2026-03-14
 firm: "Morgan Stanley"
 role: "Financial Advisor (Investment Adviser & Broker)"
-relationship: prospect
+relationship: family
 status: active
-tags: [contact, prospect, wirehouse, Morgan-Stanley, possible-family]
+tags: [contact, family, wirehouse, Morgan-Stanley, father]
 ---
 
 # Anthony Christopher Baker — Financial Advisor at Morgan Stanley
@@ -104,16 +104,20 @@ FINRA, NYSE American LLC, Nasdaq Stock Market, New York Stock Exchange
 
 ---
 
-## Key Question: Family Connection?
+## Family Connection — CONFIRMED
 
-**Is Anthony Baker a family member of Christopher Baker (the founder)?**
+**Anthony Baker is Christopher "Cri" Baker's father.** Confirmed 2026-03-16.
 
-- Both are named Baker, both are in San Diego
-- Anthony has been at Morgan Stanley since 1996 — he would have been in the industry since before Christopher was born (Christopher is currently an SDSU student)
-- If father/uncle: warm introduction source, product tester, industry credibility validator
-- If unrelated: still valuable as a 30-year Morgan Stanley veteran in San Diego
+Anthony is the direct pipeline to Advisor Intelligence. Cri grew up around the financial advisory business — dinner table conversations about compliance, client relationships, market dynamics. This is why Cri speaks "advisor language" fluently despite being 20 years old.
 
-**Action**: Confirm with Christopher Baker the nature of this relationship.
+Anthony serves as:
+- **Primary business sounding board** — first test for any product idea
+- **Industry credibility validator** — 30 years of experience validates the product direction
+- **Warm introduction source** — connections to Morgan Stanley colleagues and broader advisor network
+- **Product tester** — informal feedback on template quality and workflow fit
+- **Referral channel** — his network is Cri's warm market
+
+See [[Family]] and [[Me]] for full personal context.
 
 ---
 
@@ -154,11 +158,11 @@ FINRA, NYSE American LLC, Nasdaq Stock Market, New York Stock Exchange
 
 ## Next Steps
 
-1. **Priority**: Confirm with Christopher — is Anthony Baker family?
-2. If family: use as product advisor, industry sounding board, and warm intro source to Morgan Stanley colleagues
-3. If professional contact: position Advisor Intelligence as Copilot-compatible personal productivity tool
-4. Reference his 30 years of experience — templates capture institutional knowledge
-5. Connect the dots with Tim Mehrer and Jane Fitzpatrick — Morgan Stanley San Diego cluster
+1. ~~**Priority**: Confirm with Christopher — is Anthony Baker family?~~ **CONFIRMED: Father** (2026-03-16)
+2. Use as product advisor, industry sounding board, and warm intro source to Morgan Stanley colleagues
+3. Reference his 30 years of experience — templates capture institutional knowledge
+4. Connect the dots with Tim Mehrer and Jane Fitzpatrick — Morgan Stanley San Diego cluster
+5. Leverage the father-son dynamic in the brand story (when appropriate) — "son of a 30-year advisor" builds credibility
 
 ---
 
@@ -187,3 +191,6 @@ FINRA, NYSE American LLC, Nasdaq Stock Market, New York Stock Exchange
 - [[Target-Audience]]
 - [[Outreach-Playbook]]
 - [[Advisor-Existing-Systems]] — wirehouse tech stack context
+- [[Family]] — Personal family context
+- [[Me]] — Christopher Baker's full identity
+- [[Business-Strategy-Master-Plan]] — How dad's career influences the 3-phase plan

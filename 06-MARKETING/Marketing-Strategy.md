@@ -71,3 +71,6 @@ $0 currently. Founder-led growth via content and outreach.
 - [[Competitive-Landscape]] — Market positioning
 - [[Content-Gaps]] — Content to create
 - [[DLK-Engagement]] — Active prospect
+- [[Brand-Identity]] — Personal brand strategy and Instagram pivot
+- [[Me]] — Founder context for personalized content
+- [[Content-Inspiration-Research]] — Creator role models

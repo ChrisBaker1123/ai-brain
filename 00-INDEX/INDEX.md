@@ -187,6 +187,39 @@
 - [[Contact-Fitzpatrick-Jane]] — Jane Fitzpatrick, VP at Morgan Stanley Lewis/Westendorf (CRD 1009904) — Forbes 2026, 42yr veteran
 - [[Contact-Mehrer-Tim]] — Tim Mehrer at Morgan Stanley Frachon Group (CRD 5031463) — Family Wealth Advisor
 
+## 13 — Personal
+> The founder's personal knowledge web. Read [[Me]] first when representing Cri's voice.
+
+### Core Identity
+- [[Me]] — Master personal note: who Christopher Baker is, values, edge, key people
+- [[Origin-Story]] — Full biographical narrative: San Diego, sports, entrepreneurial spark
+- [[Family]] — Anthony (dad, advisor at Morgan Stanley), Colleen (mom), McKenna (sister), Maya (girlfriend)
+- [[Values-And-Philosophy]] — Build > talk, niche advantage, same person everywhere
+
+### Entrepreneurial Journey
+- [[Entrepreneurial-Timeline]] — Shopify → sneaker bots → Fowler → internships → Advisor Intelligence → future
+- [[Sneaker-Bot-Era]] — Bath, Trickle Wrath, Mech bots. Where the tech instinct was born.
+- [[Business-Strategy-Master-Plan]] — 3-phase plan: AI coaching → AI architecture → financial advisor (**confidential**)
+
+### Relationships & Network
+- [[Mentor-Mark-Linder]] — Fowler Scholars connection, high school meeting, internship facilitator
+- [[Mentor-Dan-Skiles]] — Altruist employee, Fowler board member. Strategically significant.
+- [[Maya-Colbert]] — Girlfriend, University of Arizona (**private**)
+
+### Personal Brand
+- [[Brand-Identity]] — "Same person everywhere" philosophy, Instagram pivot, four pillars
+- [[Lil-Chris]] — "Doing it for little you" narrative. Emotional core of the brand.
+- [[Content-Inspiration-Research]] — 10 content creators to model
+
+### Investing & Future
+- [[Investment-Thesis]] — Higher risk, physical AI, beyond LLMs
+- [[Physical-AI-Research]] — Companies, tickers, risk assessments for physical AI portfolio
+
+### Section Index
+- [[13-PERSONAL/INDEX]] — Entry point and usage guide
+
+---
+
 ### Email & Onboarding
 - [[Email-Best-Practices]] — 7-day trial sequence, nurture, re-engagement, Resend implementation
 - [[Email-Compliance-Guide]] — SEC/FINRA/CAN-SPAM rules (we're a tech vendor, not an IA)

@@ -78,3 +78,6 @@
 - [[Brand-Voice]] — How to write posts
 - [[Target-Audience]] — Who we're reaching
 - [[Content-Calendar]] — Publishing schedule
+- [[Brand-Identity]] — Personal brand pillars and "same person everywhere" philosophy
+- [[Lil-Chris]] — Emotional core that gives LinkedIn content warmth
+- [[Content-Inspiration-Research]] — 10 creators to model

@@ -54,8 +54,8 @@
 - **CRD**: 2709299
 - **Profile**: [[Contact-Baker-Anthony]]
 - **Key facts**: 30 years at Morgan Stanley (entire career since 1996), 0 disclosures, 12 licenses, downtown SD office
-- **Open question**: Is Anthony Baker family to Christopher Baker? (both named Baker, both in San Diego)
-- **Next**: Confirm family relationship, position as Copilot-compatible personal productivity tool
+- **CONFIRMED**: Anthony Baker is Christopher "Cri" Baker's **father**. 30-year Morgan Stanley veteran. See [[Family]].
+- **Next**: Leverage as product advisor, industry sounding board, and warm intro source to Morgan Stanley colleagues
 
 ### Jane Fitzpatrick — Morgan Stanley (Lewis/Westendorf Group)
 - **Stage**: Contacted

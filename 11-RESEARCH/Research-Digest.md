@@ -98,6 +98,17 @@ The industry is moving toward connected AI (Hazel, Morgan Stanley, Jump). Our po
 - Comment daily on: Kitces, Samantha Russell, Taylor Schulte (SD local), Dasarte Yarnway
 - Top hashtags: #FinancialAdvisor #WealthManagement #AdvisorTech #AIforAdvisors #RIA
 
+## Founder Context (for personalizing content)
+
+- **Christopher "Cri" Baker** — 20 years old, SDSU Fowler Scholar (Class of 2028), finance major, San Diego native
+- **Son of a financial advisor** — dad (Anthony Baker) has 30 years at Morgan Stanley. Cri grew up around this industry.
+- **Bilingual edge** — speaks both tech and finance fluently. This is the core differentiator.
+- **"Same person everywhere"** — the same person on Instagram as in a meeting with a $500M advisor. Trustworthy, friendly, intelligent, professional.
+- **The "Lil Chris" narrative** — "doing it for little me" is the emotional undercurrent of the brand. Don't mention explicitly in advisor content, but let the warmth and authenticity come through.
+- **Entrepreneurial path**: Shopify stores → sneaker bots → Fowler Scholars → Sprouts/Taylor Farms internships → Advisor Intelligence
+- **Real human support philosophy**: no robots, no wait times. The founder answers every call and built every template.
+- **Voice**: When creating content as Cri, read [[Me]] and [[Brand-Voice]]. Content should feel like a young, competent professional — not a corporation, not a college kid.
+
 ## Do NOT Say
 
 - "guaranteed," "proven," "risk-free," "#1," "best"

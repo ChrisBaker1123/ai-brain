@@ -15,7 +15,7 @@ Advisors already have dedicated systems for portfolio management (Orion, Black D
 See [[Product-Strategy-Pivot]] for the full strategy document behind this positioning.
 
 ## Founder
-**Christopher Baker** — Student at San Diego State University (SDSU), Fowler College of Business, finance program. Based in San Diego, CA. NOT a financial advisor — he builds tools for them.
+**Christopher "Cri" Baker** — SDSU Fowler Scholar (Class of 2028), finance major, San Diego native. Son of a 30-year Morgan Stanley financial advisor. Bilingual in technology and finance — grew up in the industry, taught himself to build. NOT a financial advisor (yet) — he builds tools for them. See [[Me]] for full personal context.
 
 ## Business Model
 - **Current**: Free during early access (no credit card required)
@@ -37,3 +37,6 @@ See [[Product-Strategy-Pivot]] for the full strategy document behind this positi
 - [[Schema]] — Database structure
 - [[DLK-Engagement]] — Active prospect (~$350M AUM, Solana Beach)
 - [[Client-Pipeline]] — All prospects
+- [[Me]] — Founder identity and personal context
+- [[Business-Strategy-Master-Plan]] — 3-phase career plan (confidential)
+- [[Entrepreneurial-Timeline]] — How the founder got here

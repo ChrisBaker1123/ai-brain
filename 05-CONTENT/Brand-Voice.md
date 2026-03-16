@@ -59,3 +59,7 @@
 - [[Target-Audience]] — Who we're speaking to
 - [[Content-Gaps]] — What's missing
 - [[Marketing-Strategy]] — How voice applies to channels
+- [[Me]] — Full founder identity (read when writing as Cri)
+- [[Brand-Identity]] — Personal brand pillars and Instagram pivot
+- [[Lil-Chris]] — The emotional undercurrent of the brand
+- [[Values-And-Philosophy]] — The values that drive the voice

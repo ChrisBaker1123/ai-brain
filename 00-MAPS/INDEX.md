@@ -1,226 +1,54 @@
-# Advisor Intelligence — Knowledge Base
-
-> **Last updated**: 2026-03-15
-> **Product**: AI prompt toolkit SaaS for financial advisors
-> **Founder**: Christopher Baker (SDSU, San Diego)
-> **Live**: https://www.advisorintelligence.app
-
+---
+type: moc
+title: "Vault Master Index"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
-## 01 — Project
-- [[Overview]] — What Advisor Intelligence is, business model, current state
-- [[Tech-Stack]] — Next.js 16.1.6, React 19, Supabase, Tailwind v4, Claude API
-- [[Architecture]] — File tree, route groups, data flow, auth flow, key patterns
-- [[Design-System]] — oklch colors, Plus Jakarta Sans, animations, responsive breakpoints
-- [[Magic-UI-Components]] — BlurFade, Marquee, NumberTicker, ShimmerButton, AnimatedShinyText, BorderBeam
-- [[Deployment]] — Vercel deploy, env vars, security headers, pre-deploy checklist
-- [[Target-Audience]] — RIAs, wirehouses, IBDs, pain points, how they find tools
-- [[Competitive-Landscape]] — vs ChatGPT, FP Alpha, VRGL, prompt libraries
+# Advisor Intelligence — Knowledge Vault
 
-## 02 — Pages
-### Public / Marketing
-- [[Page-Landing]] — Homepage (~52KB, 16 sections, all Magic UI components)
-- [[Page-Pricing]] — Free early access, future $49.99/mo, comparison section
-- [[Page-About]] — Founder story, mission, values
-- [[Page-Trust]] — Data flow, compliance framework, security details
-- [[Page-Compare]] — vs ChatGPT Alone (SEO-targeted comparison)
-- [[Page-Preview]] — Real template/document previews, no login required
-- [[Page-Book]] — Demo booking (currently mailto fallback)
+> **Product**: AI template toolkit for financial advisors | **Founder**: Christopher Baker (SDSU)
+> **Live**: https://www.advisorintelligence.app | **Phone**: (619) 851-2215
 
-### Legal
-- [[Page-Terms]] — Terms of Service (March 10, 2026)
-- [[Page-Privacy]] — Privacy Policy (March 10, 2026)
+## Maps of Content (Start Here)
+- [[MOC-Advisor-Intelligence]] — The main product: architecture, pages, components, database
+- [[MOC-Client-Pipeline]] — Prospects, clients, outreach efforts
+- [[MOC-Product]] — Templates, features, UX, tech decisions
+- [[MOC-Marketing]] — LinkedIn, email, SEO, outreach strategy
+- [[MOC-Personal]] — Identity, family, values, brand, mentors
+- [[MOC-Research]] — Competitors, market data, advisor insights
+- [[MOC-Education]] — SDSU, Fowler Scholars, internships
 
-### Auth
-- [[Page-Login]] — Email/password login + signup (Google OAuth not configured)
-- [[Page-Reset-Password]] — 3-step password recovery
-- [[Page-Profile]] — 2-screen onboarding (firm type, AUM, specialties, tone)
-- [[Page-Subscribe]] — Stripe paywall redirect
+## Knowledge Architecture
+- [[01-AXIOMS/index]] — Foundational truths (8 axioms)
+- [[02-PRINCIPLES/index]] — Derived behaviors (6 principles)
+- [[03-DECISIONS/index]] — Choices with rationale (6 decisions)
+- [[04-RULES/index]] — Hard constraints (6 rules)
 
-### Dashboard
-- [[Page-Dashboard]] — Personalized action cards, AI Coach link
-- [[Page-Toolkit]] — 68 templates, 8 categories, search + filter
-- [[Page-Toolkit-Category]] — Category deep-link redirect
-- [[Page-Documents]] — 20 document templates, 6 categories
-- [[Page-Chat]] — Full-page AI Coach (Claude streaming via SSE)
-- [[Page-Scenario-To-Plan]] — 20 Action Plan scenarios, multi-step workflows
-- [[Page-Tutorials]] — 18 How-To Guides, 5 categories, learning path
-- [[Page-Tutorial-Slug]] — Individual tutorial view
-- [[Page-Quick-Ref]] — Searchable quick reference (470 lines)
-- [[Page-Use-Cases]] — AI use case library with compliance notes
-- [[Page-Favorites]] — Saved template outputs
-- [[Page-History]] — Generation history
-- [[Page-Settings]] — Profile editing (currently a stub)
+## Quick Access
+- [[Current-Sprint]] — Active work
+- [[Backlog]] — Prioritized backlog
+- [[Client-Pipeline]] — All prospects
+- [[Research-Digest]] — Condensed intelligence brief
+- [[Brand-Voice]] — Content voice guidelines
+- [[Me]] — Founder identity (read when creating content)
 
-### Admin
-- [[Page-Admin]] — Analytics dashboard, user directory, coupon management
-
-## 03 — Components
-### Core
-- [[Component-Prompt-Runner]] — Template copy modal (337 lines, core UX)
-- [[Component-Document-Runner]] — Document copy modal (334 lines)
-- [[Component-Dashboard-Shell]] — Sidebar layout wrapper (366 lines)
-
-### Features
-- [[Component-CommandPalette]] — Cmd+K search (483 lines)
-- [[Component-SiteTour]] — 10-step interactive tour (671 lines)
-- [[Component-Chat-Widget]] — Floating AI Coach bubble (263 lines)
-- [[Component-Template-Feedback]] — Thumbs up/down widget
-- [[Component-PageGuide]] — Per-page onboarding overlay
-- [[Component-UpgradeModal]] — Free trial info modal
-- [[Component-Logo]] — Logo icon + full wordmark
-- [[Component-CrispChat]] — Crisp chat widget (not active)
-- [[Component-ThemeProvider]] — Dark/light mode wrapper
-
-### Magic UI
-- [[Component-BlurFade]] — Scroll-triggered fade animation
-- [[Component-Marquee]] — Continuous scrolling content
-- [[Component-NumberTicker]] — Animated counting numbers
-- [[Component-ShimmerButton]] — Shimmer spark CTA button
-- [[Component-AnimatedShinyText]] — Shimmer text effect
-- [[Component-BorderBeam]] — Border gradient beam (removed from UI)
-
-## 04 — Database
-- [[Schema]] — 9 tables, 15 indexes, extensions, entity relationships
-- [[Auth-Flow]] — Signup, login, OAuth, session management, password reset
-- [[RLS-Policies]] — Row-level security for every table
-- [[User-Model]] — Profile fields, how data is collected and used
-- [[API-Routes]] — All endpoints: chat, favorite, feedback, generate, admin, Stripe
-
-## 05 — Content
-- [[Copy-Inventory]] — Every piece of user-facing copy, rated strong/adequate/weak
-- [[Brand-Voice]] — Voice characteristics, 10 good examples, 10 anti-examples
-- [[SEO-Audit]] — Page titles, missing elements, keyword opportunities
-- [[Content-Gaps]] — Missing pages, content types, social proof roadmap
-
-## 06 — Marketing
-- [[Marketing-Strategy]] — Channels, growth levers, positioning, metrics
-- [[LinkedIn-Playbook]] — 10 post frameworks, schedule, engagement tactics
-- [[Email-Strategy]] — 5-email onboarding sequence, nurture, re-engagement
-- [[Content-Calendar]] — Weekly template, monthly priorities, blog post ideas
-- [[Outreach-Playbook]] — Cold email templates, LinkedIn sequences, conference strategy
-
-## 07 — Roadmap
-- [[Current-Sprint]] — Active work and recently completed
-- [[Backlog]] — Prioritized backlog (24 items)
-- [[Ideas]] — Raw ideas with effort/impact estimates
-- [[DLK-Engagement]] — ~$350M AUM RIA prospect, Solana Beach
-- [[White-Label-Platform]] — Custom branded platform concept
-- [[Client-Pipeline]] — All prospects and contacts
-- [[Template-Pivot-Implementation]] — 8-category restructure implementation plan
-
-## 08 — Session Logs
-- [[2026-03-13-Vault-Build]] — This session: full analysis + vault creation
-- [[CHANGELOG]] — All project changes by date
-- [[SESSION-LOG]] — MCPs, analysis, decisions per session
-
-## 11 — Research Intelligence
-> Deep research context bank — read by all agents before generating content.
-
-### Synthesis & Meta
-- [[Research-Synthesis]] — Master intelligence brief connecting all 7 domains
-- [[Research-Digest]] — Condensed 1-page brief for cron agents (read FIRST every morning)
-- [[Claude-Code-Optimization-Playbook]] — Claude Code system operation manual (2026-03-16)
-- [[Self-Improvement-Playbook]] — Previous optimization audit (2026-03-15)
-
-### Competitors (13 analyzed)
-- [[Competitor-Holistiplan]] — Tax planning OCR, $449-$30K/yr, 30K users
-- [[Competitor-FP-Alpha]] — Estate/tax/insurance AI, $1,790-$1,995/yr
-- [[Competitor-Jump-VRGL]] — AI meeting OS + portfolio comparison, $80M Series B
-- [[Competitor-Pulse360]] — Meeting notes + deliverables, $49-79/mo
-- [[Competitor-Nitrogen-Riskalyze]] — Risk assessment, $99-395/mo, 30K advisors
-- [[Competitor-Zocks]] — AI note-taking (no recording), $130-150/mo, $45M Series B
-- [[Competitor-Altruist-Hazel]] — Custodian AI platform, $60-125/seat/mo, $152M funded (DEEP DIVE)
-- [[Competitor-Orion-AI]] — Enterprise portfolio mgmt, $5.8T AUA
-- [[Competitor-Kwanti]] — Portfolio analytics, $195-575/mo
-- [[Competitor-Conquest-Planning]] — Financial planning AI, $200/mo, Canada leader
-- [[Competitor-RightCapital]] — Financial planning, $125-150/mo, Smart Import AI
-- [[Competitor-eMoney-Advisor]] — Financial planning, ~$375/mo, CoPlanner AI
-- [[Competitor-Matrix]] — Master comparison table, all 13 + Advisor Intelligence
-
-### Advisor Insights
-- [[Advisor-Pain-Points]] — Top 15 pain points ranked by frequency, 30 direct quotes
-- [[Advisor-Language-Bank]] — 130+ sourced phrases, voice-of-customer swipe file
-- [[Advisor-AI-Sentiment]] — 5 advisor segments, fears, hopes, messaging strategy
-
-### SEO & Content
-- [[SEO-Keyword-Map]] — 50+ keywords, 7 categories, prioritized content roadmap
-- [[AEO-Opportunities]] — 30+ AI answer engine target questions, content briefs
-- [[SERP-Analysis]] — Page 1 analysis for top 10 keywords
-
-### LinkedIn
-- [[LinkedIn-Content-Analysis]] — 15 high-performing post patterns, algorithm insights
-- [[LinkedIn-Hashtag-Map]] — 30+ hashtags, usage strategy, keywords
-- [[LinkedIn-Influencer-Map]] — 8 influencers, engagement strategy, "Waffle House" targets
-- [[LinkedIn-Competitor-Content]] — Competitor LinkedIn analysis, content gaps, 10 post ideas
-
-### Industry & Prospects
-- [[RIA-Industry-Intel]] — Market size, AI adoption, M&A, fee compression, talent gap
-- [[San-Diego-RIA-Map]] — 200+ RIAs, geographic clusters, tech adoption indicators
-- [[San-Diego-Top-20-Prospects]] — 9 Priority A firms, personalized outreach angles
-- [[Conference-Calendar]] — 30+ events in 2026, relevance scores, budget estimates
-
-### Strategy
-- [[Connected-AI-Trend]] — Connected AI industry analysis and positioning strategy (2026-03-16)
-- [[Connected-AI-Implementation-Plan]] — Technical roadmap for CRM integration (2026-03-16)
-- [[Product-Strategy-Pivot]] — Template audit, gap-filler repositioning (2026-03-14)
-- [[Advisor-Existing-Systems]] — What systems advisors already use
-- [[AI-Gap-Analysis]] — Market gaps in advisor AI tools
-- [[Template-Competitive-Analysis]] — Template coverage vs competitors
-- [[Advisor-AI-Usage-Reality]] — How advisors actually use AI today
-
-### Client Intelligence
-- [[DLK-Deep-Dive]] — $348-435M AUM, 6 advisors, 470 clients, meeting prep for March 16
-- [[Client-Mark-Halby]] — CRD 5536243, CFP/AIF at DLK, SDSU alum
-- [[Client-Anthony-Baker]] — CRD 2709299, Morgan Stanley San Diego, 30yr experience
-- [[Client-Jaden-Matson]] — Apartment Realty Group, Solana Beach, referral source
-- [[Client-Tim]] — Now identified: Tim Mehrer, Morgan Stanley (see 12-CONTACTS)
-- [[Client-Will]] — Now identified: Will Jones, CFP®, Wells Fargo (see 12-CONTACTS)
-
-## 12 — Contacts Directory
-> Client and prospect profiles with ADV research, relationship history, and engagement strategy.
-
-- [[12-CONTACTS/INDEX]] — Contact directory overview
-- [[Contact-Halby-Mark]] — Mark Halby, CFP®/AIF® at DLK (CRD 5536243) — priority prospect, SDSU alum
-- [[Contact-Jones-Will]] — Will Jones, CFP® at Wells Fargo (Rancho Santa Fe) — active client, SDSU alum, Forbes 2025
-- [[Contact-Baker-Anthony]] — Anthony Baker at Morgan Stanley (CRD 2709299) — 30yr career, possible family
-- [[Contact-Fitzpatrick-Jane]] — Jane Fitzpatrick, VP at Morgan Stanley Lewis/Westendorf (CRD 1009904) — Forbes 2026, 42yr veteran
-- [[Contact-Mehrer-Tim]] — Tim Mehrer at Morgan Stanley Frachon Group (CRD 5031463) — Family Wealth Advisor
-
-## 13 — Personal
-> The founder's personal knowledge web. Read [[Me]] first when representing Cri's voice.
-
-### Core Identity
-- [[Me]] — Master personal note: who Christopher Baker is, values, edge, key people
-- [[Origin-Story]] — Full biographical narrative: San Diego, sports, entrepreneurial spark
-- [[Family]] — Anthony (dad, advisor at Morgan Stanley), Colleen (mom), McKenna (sister), Maya (girlfriend)
-- [[Values-And-Philosophy]] — Build > talk, niche advantage, same person everywhere
-
-### Entrepreneurial Journey
-- [[Entrepreneurial-Timeline]] — Shopify → sneaker bots → Fowler → internships → Advisor Intelligence → future
-- [[Sneaker-Bot-Era]] — Bath, Trickle Wrath, Mech bots. Where the tech instinct was born.
-- [[Business-Strategy-Master-Plan]] — 3-phase plan: AI coaching → AI architecture → financial advisor (**confidential**)
-
-### Relationships & Network
-- [[Mentor-Mark-Linder]] — Fowler Scholars connection, high school meeting, internship facilitator
-- [[Mentor-Dan-Skiles]] — Altruist employee, Fowler board member. Strategically significant.
-- [[Maya-Colbert]] — Girlfriend, University of Arizona (**private**)
-
-### Personal Brand
-- [[Brand-Identity]] — "Same person everywhere" philosophy, Instagram pivot, four pillars
-- [[Lil-Chris]] — "Doing it for little you" narrative. Emotional core of the brand.
-- [[Content-Inspiration-Research]] — 10 content creators to model
-
-### Investing & Future
-- [[Investment-Thesis]] — Higher risk, physical AI, beyond LLMs
-- [[Physical-AI-Research]] — Companies, tickers, risk assessments for physical AI portfolio
-
-### Section Index
-- [[13-PERSONAL/INDEX]] — Entry point and usage guide
-
----
-
-### Email & Onboarding
-- [[Email-Best-Practices]] — 7-day trial sequence, nurture, re-engagement, Resend implementation
-- [[Email-Compliance-Guide]] — SEC/FINRA/CAN-SPAM rules (we're a tech vendor, not an IA)
-- [[Competitor-Email-Teardown]] — 6 competitor + 6 best-in-class SaaS email flows
+## Vault Structure
+| Folder | Contents | Count |
+|--------|----------|-------|
+| 00-MAPS | Maps of Content, master index, changelog | 9 |
+| 01-AXIOMS | Foundational beliefs | 9 |
+| 02-PRINCIPLES | Derived behaviors | 7 |
+| 03-DECISIONS | Choices with rationale | 7 |
+| 04-RULES | Hard constraints | 7 |
+| 05-PROJECTS | Active projects (AI, pages, components, DB) | 55 |
+| 06-AREAS | Marketing, content, investing | 12 |
+| 07-CONTACTS | People (clients, prospects, mentors) | 12 |
+| 08-REFERENCE | Research, competitors, market data | 42 |
+| 09-PLANS | Roadmaps, sprints, strategies | 7 |
+| 10-DRAFTS | Content drafts (LinkedIn, blog, email) | 17 |
+| 11-LOGS | Session logs, monitor logs, playbooks | 16 |
+| 12-PERSONAL | Identity, family, values, biography | 12 |
+| 99-META | Templates, conventions, vault management | 3+ |

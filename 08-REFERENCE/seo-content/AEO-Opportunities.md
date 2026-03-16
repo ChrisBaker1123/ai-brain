@@ -1,10 +1,10 @@
 ---
+type: reference
 title: "AEO Opportunities — AI Answer Engine Targets"
-type: research
-date: 2026-03-13
-domain: seo
-tags: [aeo, seo, ai-search, content-strategy, research]
-updated: 2026-03-13
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways for Advisor Intelligence

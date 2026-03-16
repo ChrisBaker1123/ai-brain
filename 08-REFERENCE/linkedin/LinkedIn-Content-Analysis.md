@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "LinkedIn Content Analysis — What Works for Advisors"
-type: research
-date: 2026-03-13
-domain: linkedin
-tags: [linkedin, content, social-media, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways for Advisor Intelligence

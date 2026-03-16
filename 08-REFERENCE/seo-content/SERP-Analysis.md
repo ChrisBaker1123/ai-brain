@@ -1,10 +1,10 @@
 ---
+type: reference
 title: "SERP Analysis — Page 1 Breakdown for Top Keywords"
-type: research
-date: 2026-03-13
-domain: seo
-tags: [serp, seo, competitor-content, research]
-updated: 2026-03-13
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways for Advisor Intelligence

@@ -1,3 +1,12 @@
+---
+type: moc
+title: "Contacts Directory"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+---
+
 # Contacts Directory
 
 > Client and prospect profiles with ADV research, relationship history, and engagement strategy.

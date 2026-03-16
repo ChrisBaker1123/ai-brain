@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "San Diego Top 20 RIA Prospects"
-type: research
-date: 2026-03-13
-domain: industry
-tags: [prospects, san-diego, outreach, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: outreach
 ---
 
 # San Diego Top 20 RIA Prospects

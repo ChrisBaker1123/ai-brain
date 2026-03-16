@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Connected AI Trend — The Shift from Copy-Paste to Connected Workflows"
-type: research
-date: 2026-03-16
-domain: strategy
-tags: [connected-ai, strategy, industry-trend, hazel, morgan-stanley, crm]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
 ---
 
 # Connected AI Trend — Industry Analysis

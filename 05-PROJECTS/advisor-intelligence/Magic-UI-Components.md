@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Magic UI Components"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Magic UI Components
 
 #project #magicui #component

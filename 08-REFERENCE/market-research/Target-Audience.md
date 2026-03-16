@@ -1,6 +1,13 @@
-# Target Audience
+---
+type: reference
+title: "Target Audience"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+---
 
-#project #marketing #audience
+# Target Audience
 
 ## Primary Users: Financial Advisors
 

@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Component: BorderBeam (Magic UI)"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Component: BorderBeam (Magic UI)
 
 #component #magicui

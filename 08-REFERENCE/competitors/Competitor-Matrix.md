@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Competitor Matrix — All 13 Competitors + Advisor Intelligence"
-type: research
-date: 2026-03-13
-domain: competitor
-tags: [competitor, analysis, advisor-tech, matrix, comparison]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Competitor Matrix

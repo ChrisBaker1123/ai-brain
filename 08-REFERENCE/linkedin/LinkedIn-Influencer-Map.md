@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "LinkedIn Influencer Map — Strategic Engagement Targets"
-type: research
-date: 2026-03-13
-domain: linkedin
-tags: [linkedin, influencers, engagement, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways

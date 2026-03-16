@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "What Financial Advisors Actually Use AI For"
-type: research
-date: 2026-03-14
-domain: strategy
-tags: [ai-usage, advisor-research, survey-data, product-strategy]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # What Financial Advisors ACTUALLY Use AI For: Comprehensive Research Report

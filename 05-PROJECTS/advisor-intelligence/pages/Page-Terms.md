@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Page: Terms of Service"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Page: Terms of Service
 
 #page #legal

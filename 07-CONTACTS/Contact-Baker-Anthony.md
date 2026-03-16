@@ -1,12 +1,14 @@
 ---
-title: "Anthony Baker"
 type: contact
-date: 2026-03-14
-firm: "Morgan Stanley"
-role: "Financial Advisor (Investment Adviser & Broker)"
-relationship: family
+title: "Anthony Baker"
 status: active
-tags: [contact, family, wirehouse, Morgan-Stanley, father]
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+role: prospect
+company: "Morgan Stanley"
+relationship: active
+priority: medium
 ---
 
 # Anthony Christopher Baker — Financial Advisor at Morgan Stanley

@@ -1,12 +1,14 @@
 ---
-title: "William Jones"
 type: contact
-date: 2026-03-14
-firm: "Wells Fargo Advisors"
-role: "Financial Advisor, CFP®"
-relationship: client
+title: "William Jones"
 status: active
-tags: [contact, client, wirehouse, Wells-Fargo, CFP, SDSU, training-active]
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+role: client
+company: "Wells Fargo Advisors"
+relationship: active
+priority: high
 ---
 
 # William Jones, CFP® — Financial Advisor at Wells Fargo Advisors

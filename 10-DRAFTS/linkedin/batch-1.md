@@ -1,3 +1,14 @@
+---
+type: draft
+title: "LinkedIn Content — Batch 1"
+status: draft
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
+target_platform: linkedin
+publish_status: drafting
+---
+
 # LinkedIn Content — Batch 1
 **Brand**: Advisor Intelligence | **Author POV**: Christopher "Cri" Baker | **Date**: 2026-03-13
 

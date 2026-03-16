@@ -1,6 +1,13 @@
-# Competitive Landscape
+---
+type: reference
+title: "Competitive Landscape"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+---
 
-#project #marketing #competition
+# Competitive Landscape
 
 ## The Market
 The AI-for-financial-advisors space is emerging. Most advisors use generic AI tools (ChatGPT, Copilot) without structure, compliance awareness, or personalization.

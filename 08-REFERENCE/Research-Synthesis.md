@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Research Synthesis — Master Intelligence Brief"
-type: research
-date: 2026-03-13
-domain: synthesis
-tags: [synthesis, strategy, intelligence, master-brief]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Research Synthesis — Master Intelligence Brief

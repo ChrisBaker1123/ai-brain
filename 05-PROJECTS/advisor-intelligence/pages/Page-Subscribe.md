@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Page: Subscribe (Paywall)"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Page: Subscribe (Paywall)
 
 #page #onboard

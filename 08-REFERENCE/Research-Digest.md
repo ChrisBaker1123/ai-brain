@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Research Digest — Quick Intelligence Brief for Agents"
-type: research
-date: 2026-03-13
-domain: synthesis
-tags: [digest, quick-ref, cron-agent, intelligence]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Research Digest

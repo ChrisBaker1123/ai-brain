@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Component: Theme Provider"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Component: Theme Provider
 
 #component

@@ -1,3 +1,12 @@
+---
+type: personal
+title: "Maya Colbert"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: personal
+---
+
 # Maya Colbert
 
 #personal #family #private

@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "RIA Industry Intelligence — Market & Technology Trends"
-type: research
-date: 2026-03-13
-domain: industry
-tags: [RIA, industry, market-size, AI-adoption, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # RIA Industry Intelligence — Market & Technology Trends

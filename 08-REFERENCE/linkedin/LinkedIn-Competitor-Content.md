@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "LinkedIn Competitor Content Analysis"
-type: research
-date: 2026-03-13
-domain: linkedin
-tags: [linkedin, competitor, content-strategy, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways

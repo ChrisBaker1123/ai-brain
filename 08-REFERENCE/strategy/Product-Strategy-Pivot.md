@@ -1,10 +1,10 @@
 ---
+type: reference
 title: "Product Strategy Pivot — Template Audit & Gap-Filler Positioning"
-type: strategy
-date: 2026-03-14
+status: active
+created: 2026-03-13
+updated: 2026-03-16
 domain: product
-tags: [strategy, pivot, templates, audit, positioning, gap-filler]
-status: draft-for-review
 ---
 
 # Product Strategy Pivot — Template Audit & Gap-Filler Positioning

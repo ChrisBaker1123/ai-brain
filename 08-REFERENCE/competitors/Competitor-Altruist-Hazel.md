@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Altruist/Hazel — Competitor Analysis (DEEP DIVE)"
-type: research
-date: 2026-03-13
-domain: competitor
-tags: [competitor, analysis, advisor-tech, custodian, ai-assistant, deep-dive]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Key Takeaways for Advisor Intelligence

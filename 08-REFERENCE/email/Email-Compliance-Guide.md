@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Email Compliance Guide — SEC, FINRA & CAN-SPAM"
-type: research
-date: 2026-03-13
-domain: email
-tags: [email, compliance, SEC, FINRA, CAN-SPAM, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways for Advisor Intelligence

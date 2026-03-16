@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "DLK Investment Management — Deep Dive"
-type: research
-date: 2026-03-13
-domain: client
-tags: [DLK, prospect, SEC, ADV, research, meeting-prep]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: outreach
 ---
 
 # Key Takeaways for Advisor Intelligence (March 16 Meeting)

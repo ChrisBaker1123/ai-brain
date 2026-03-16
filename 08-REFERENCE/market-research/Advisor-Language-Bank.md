@@ -1,9 +1,10 @@
 ---
-title: "Advisor Language Bank --- Voice of Customer Swipe File"
-type: research
-date: 2026-03-13
-domain: audience
-tags: [language, voice-of-customer, copywriting, research]
+type: reference
+title: "Advisor Language Bank — Voice of Customer Swipe File"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Advisor Language Bank --- Voice of Customer Swipe File

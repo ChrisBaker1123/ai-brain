@@ -1,3 +1,12 @@
+---
+type: log
+title: "Debug Audit — 2026-03-14"
+status: active
+created: 2026-03-14
+updated: 2026-03-16
+domain: business
+---
+
 # Debug Audit — 2026-03-14
 
 > Full forensic audit of https://www.advisorintelligence.app

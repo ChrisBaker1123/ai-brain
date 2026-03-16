@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Page: Privacy Policy"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Page: Privacy Policy
 
 #page #legal

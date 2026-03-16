@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Admin Dashboard"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Admin Dashboard
 
 ## Overview

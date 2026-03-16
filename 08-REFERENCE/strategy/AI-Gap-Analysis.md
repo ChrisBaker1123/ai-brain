@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "AI Gap Analysis — Where AI Adds Real Value for Financial Advisors"
-type: research
-date: 2026-03-14
-domain: strategy
-tags: [ai, gap-analysis, product-strategy, templates, workflow]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
 ---
 
 # AI Gap Analysis — Where AI Adds Real Value for Financial Advisors

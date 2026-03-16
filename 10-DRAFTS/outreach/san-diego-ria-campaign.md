@@ -1,3 +1,14 @@
+---
+type: draft
+title: "San Diego RIA Outreach Campaign"
+status: draft
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
+target_platform: outreach
+publish_status: drafting
+---
+
 # San Diego RIA Outreach Campaign
 
 ## 3-Email Cold Sequence

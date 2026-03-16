@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Component: Chat Widget"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Component: Chat Widget
 
 #component #feature

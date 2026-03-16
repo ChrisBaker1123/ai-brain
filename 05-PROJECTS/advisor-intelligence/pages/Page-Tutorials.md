@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Page: How-To Guides (AI Academy)"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
+---
+
 # Page: How-To Guides (AI Academy)
 
 #page #dashboard #tutorials

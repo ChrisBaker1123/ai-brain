@@ -1,12 +1,14 @@
 ---
-title: "Mark Halby"
 type: contact
-date: 2026-03-14
-firm: "DLK Investment Management"
-role: "Certified Financial Planner, CFP®"
-relationship: prospect
+title: "Mark Halby"
 status: active
-tags: [contact, prospect, RIA, DLK, CFP, SDSU, priority]
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+role: prospect
+company: "DLK Investment Management"
+relationship: active
+priority: high
 ---
 
 # Mark A. Halby, CFP®, AIF® — Financial Planner at DLK Investment Management

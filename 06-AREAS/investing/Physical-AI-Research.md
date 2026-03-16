@@ -1,3 +1,12 @@
+---
+type: reference
+title: "Physical AI — Investment Research"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: investing
+---
+
 # Physical AI — Investment Research
 
 #personal #investing #research

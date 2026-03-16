@@ -1,9 +1,10 @@
 ---
-title: "Top Advisor Pain Points --- Ranked by Frequency"
-type: research
-date: 2026-03-13
-domain: audience
-tags: [pain-points, advisors, research, content-strategy]
+type: reference
+title: "Top Advisor Pain Points — Ranked by Frequency"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Top Advisor Pain Points --- Ranked by Frequency

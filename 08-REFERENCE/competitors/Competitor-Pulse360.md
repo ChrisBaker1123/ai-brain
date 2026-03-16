@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Pulse360 — Competitor Analysis"
-type: research
-date: 2026-03-13
-domain: competitor
-tags: [competitor, analysis, advisor-tech, meeting-notes, crm]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Key Takeaways for Advisor Intelligence

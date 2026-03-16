@@ -1,9 +1,10 @@
 ---
-title: "How Advisors Feel About AI --- Sentiment Analysis"
-type: research
-date: 2026-03-13
-domain: audience
-tags: [ai-sentiment, advisors, research, messaging]
+type: reference
+title: "How Advisors Feel About AI — Sentiment Analysis"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # How Advisors Feel About AI --- Sentiment Analysis

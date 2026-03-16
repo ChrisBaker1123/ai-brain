@@ -1,9 +1,10 @@
 ---
-title: "Will — Client Research"
-type: research
-date: 2026-03-13
-domain: client
-tags: [client, SEC, research, unknown]
+type: reference
+title: "Will — Advisor Contact (Unidentified)"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Will — Advisor Contact (Unidentified)

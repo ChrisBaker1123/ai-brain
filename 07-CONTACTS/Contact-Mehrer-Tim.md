@@ -1,12 +1,14 @@
 ---
-title: "Timothy Mehrer"
 type: contact
-date: 2026-03-14
-firm: "Morgan Stanley — The Frachon Group"
-role: "Financial Advisor, Family Wealth Advisor"
-relationship: prospect
+title: "Timothy Mehrer"
 status: active
-tags: [contact, prospect, wirehouse, Morgan-Stanley]
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+role: prospect
+company: "Morgan Stanley — The Frachon Group"
+relationship: active
+priority: medium
 ---
 
 # Timothy Mehrer — Financial Advisor at Morgan Stanley (The Frachon Group)

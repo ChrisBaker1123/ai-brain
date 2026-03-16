@@ -1,12 +1,14 @@
 ---
-title: "Jane Fitzpatrick"
 type: contact
-date: 2026-03-14
-firm: "Morgan Stanley — The Lewis/Westendorf Group"
-role: "Vice President, Financial Advisor"
-relationship: prospect
+title: "Jane Fitzpatrick"
 status: active
-tags: [contact, prospect, wirehouse, Morgan-Stanley, Forbes]
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+role: prospect
+company: "Morgan Stanley — The Lewis/Westendorf Group"
+relationship: active
+priority: medium
 ---
 
 # Jane Fitzpatrick — VP, Financial Advisor at Morgan Stanley (Lewis/Westendorf Group)

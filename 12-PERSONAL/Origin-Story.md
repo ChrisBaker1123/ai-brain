@@ -1,3 +1,12 @@
+---
+type: personal
+title: "Origin Story"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: personal
+---
+
 # Origin Story
 
 #personal #biography

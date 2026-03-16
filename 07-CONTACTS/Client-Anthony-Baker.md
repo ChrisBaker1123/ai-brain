@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Anthony Baker — Client Research"
-type: research
-date: 2026-03-13
-domain: client
-tags: [client, SEC, research, Morgan-Stanley, possible-family]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Anthony Baker — Morgan Stanley Financial Advisor, San Diego

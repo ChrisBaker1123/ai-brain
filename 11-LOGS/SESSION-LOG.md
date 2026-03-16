@@ -1,3 +1,12 @@
+---
+type: log
+title: "Session Log"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+---
+
 # Session Log
 
 ## 2026-03-13 — Vault Build Session

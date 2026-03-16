@@ -1,3 +1,12 @@
+---
+type: plan
+title: "Business Strategy — Master Plan"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+---
+
 # Business Strategy — Master Plan
 
 #personal #strategy #confidential

@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Advisor Existing Systems — Complete Map of What Software Advisors Already Use"
-type: research
-date: 2026-03-14
-domain: strategy
-tags: [advisor-tech, systems, gap-analysis, technology-stack]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # Advisor Existing Systems — What Software Advisors Already Have

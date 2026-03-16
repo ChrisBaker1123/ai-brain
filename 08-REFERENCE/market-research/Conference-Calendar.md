@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "2026 Advisor Conference Calendar"
-type: research
-date: 2026-03-13
-domain: industry
-tags: [conferences, events, networking, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
 ---
 
 # 2026 Advisor Conference Calendar

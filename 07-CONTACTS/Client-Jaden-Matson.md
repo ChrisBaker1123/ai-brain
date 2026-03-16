@@ -1,9 +1,14 @@
 ---
-title: "Jaden Matson — Client Research"
-type: research
-date: 2026-03-13
-domain: client
-tags: [client, SEC, research, referral, SDSU, real-estate]
+type: contact
+title: "Jaden Matson"
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: business
+role: referral
+company: "Apartment Realty Group"
+relationship: active
+priority: low
 ---
 
 # Jaden Matson — Investment Associate, Apartment Realty Group

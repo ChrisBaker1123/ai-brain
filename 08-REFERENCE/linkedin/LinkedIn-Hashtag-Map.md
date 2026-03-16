@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "LinkedIn Hashtag Map — Advisor AI Space"
-type: research
-date: 2026-03-13
-domain: linkedin
-tags: [linkedin, hashtags, social-media, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways

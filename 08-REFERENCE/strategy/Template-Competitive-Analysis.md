@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Template Competitive Analysis — How Competitors Organize AI Offerings"
-type: research
-date: 2026-03-14
-domain: competitor
-tags: [competitor, templates, positioning, product-strategy]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: product
 ---
 
 # Competitive Landscape Research: Financial Advisor AI Tools

@@ -1,9 +1,10 @@
 ---
+type: reference
 title: "Email Marketing Best Practices — Advisor SaaS"
-type: research
-date: 2026-03-13
-domain: email
-tags: [email, onboarding, marketing, SaaS, research]
+status: active
+created: 2026-03-13
+updated: 2026-03-16
+domain: marketing
 ---
 
 # Key Takeaways for Advisor Intelligence

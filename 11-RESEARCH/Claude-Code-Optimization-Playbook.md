@@ -201,11 +201,42 @@ Framework skills: brand-guidelines, canvas-design, doc-coauthoring, frontend-des
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| CLAUDE.md tokens | ~1,200 | < 2,000 |
+| CLAUDE.md tokens | ~1,700 | < 2,500 |
 | MCPs connected | 11 | 8-12 |
 | Custom skills | 5 | 5-7 |
+| Scoped rules files | 2 | 2-5 |
 | Cron daily cost | ~$2.70 | < $5/day |
 | Cron weekly cost | ~$22 | < $30/week |
+
+---
+
+## Research Findings (2026-03-16)
+
+### High-Value Features Not Previously Used
+1. **`.claude/rules/` with `paths` frontmatter** — Scope rules to specific file types. Only loads when editing matching files. Created: `react-components.md` (for .tsx files) and `marketing-content.md` (for vault content). Saves context on non-matching tasks.
+2. **Compaction instructions in CLAUDE.md** — Tell Claude what to preserve during /compact. Added section at bottom of CLAUDE.md.
+3. **`/loop` for session-scoped monitoring** — Can replace site-monitor cron during active dev sessions. Use: `/loop 30m check Vercel deployment status`.
+4. **`/compact <focused instruction>`** — Targeted compact: `/compact Focus on the API changes`. Preserves what matters.
+5. **`/clear` between unrelated tasks** — Hard reset. Better than /compact when switching topics entirely.
+6. **Subagent model routing** — Set `CLAUDE_CODE_SUBAGENT_MODEL=sonnet` to save tokens on research subagents.
+7. **`--allowedTools` for cron scripts** — Restrict headless agents to read-only tools for safety.
+8. **Notification hooks** — Desktop alerts when Claude needs input (permission_prompt, idle_prompt events).
+9. **Hook types beyond "command"** — HTTP hooks (webhook to external services), prompt hooks (LLM-based decisions), agent hooks (subagent verification).
+10. **`/batch` for parallel refactoring** — Decomposes changes across files, spawns one agent per unit in isolated worktrees.
+
+### Adopted from Research
+- `.claude/rules/` directory with scoped rules (2 files)
+- Compaction preservation instructions in CLAUDE.md
+- Security hook (dangerous-actions-blocker.sh) — from ultimate guide
+- Cron auth checks and error handling — from community best practices
+- Context budget awareness — CLAUDE.md at ~1,700 tokens (HEALTHY range)
+
+### Deferred for Future
+- Plugin packaging of custom skills
+- Agent teams with TeammateIdle/TaskCompleted hooks
+- Worktree isolation for parallel feature development
+- Chrome DevTools MCP for visual QA loops
+- obra/superpowers skill library evaluation
 
 ---
 

@@ -8,7 +8,7 @@ tags: [digest, quick-ref, cron-agent, intelligence]
 
 # Research Digest
 
-> **Last updated**: 2026-03-13
+> **Last updated**: 2026-03-16
 > **Read this FIRST** before generating any content.
 
 ---
@@ -19,7 +19,7 @@ tags: [digest, quick-ref, cron-agent, intelligence]
 - **$49.99/mo flat** — cheapest AI tool (competitors: $100-400/mo per seat)
 - **Zero data upload** — only product where client data never touches the platform
 - **Copilot-first** — only product aligned with Microsoft ecosystem advisors already use
-- **61 templates, 11 categories** — broadest communication coverage
+- **68 templates, 8 categories** — workflow-focused communication coverage that fills the gap in advisor tech stack
 
 ## Key Stats to Reference
 

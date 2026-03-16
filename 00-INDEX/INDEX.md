@@ -117,9 +117,11 @@
 ## 11 — Research Intelligence
 > Deep research context bank — read by all agents before generating content.
 
-### Synthesis
+### Synthesis & Meta
 - [[Research-Synthesis]] — Master intelligence brief connecting all 7 domains
 - [[Research-Digest]] — Condensed 1-page brief for cron agents (read FIRST every morning)
+- [[Claude-Code-Optimization-Playbook]] — Claude Code system operation manual (2026-03-16)
+- [[Self-Improvement-Playbook]] — Previous optimization audit (2026-03-15)
 
 ### Competitors (13 analyzed)
 - [[Competitor-Holistiplan]] — Tax planning OCR, $449-$30K/yr, 30K users

@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-03-16
+- **Comprehensive self-optimization** (deep audit session):
+  - CLAUDE.md rewrite: Added gap-filler positioning, architecture map, full MCP table (11 servers), skills table, vault context rules by task type, active clients section. ~120 lines, ~1200 tokens.
+  - Removed 5 redundant MCPs: sequential-thinking, memory, fetch, context-mode, resend (empty API key)
+  - Created deploy skill (build → test → deploy → verify pipeline)
+  - Installed dangerous-actions-blocker.sh (PreToolUse security hook)
+  - Updated all 4 custom skills (ai-marketing, site-audit, content-creator, advisor-outreach) with post-pivot content
+  - Fixed auto-format hook Prettier path resolution
+  - Created global ~/.claude/CLAUDE.md with personal preferences
+  - Updated Research-Digest.md for post-pivot accuracy (68 templates, 8 categories)
+  - Fixed cron scripts with auth checks and error handling
+  - Updated MEMORY.md with deploy skill and cron auth note
+  - Created [[Claude-Code-Optimization-Playbook]] — comprehensive system reference
+  - Updated [[Current-Sprint]] and [[CHANGELOG]]
+  - Note: All cron scripts failing since ~March 14 due to OAuth token expiration
+
 ## 2026-03-15
 - System self-evaluation and optimization session
 - CLAUDE.md rewrite: 110→76 lines, 1540→961 tokens (removed architecture tree, targeted vault reads)

@@ -1,6 +1,13 @@
 # Changelog
 
 ## 2026-03-16
+- **Connected AI positioning research** (vault creation session):
+  - Created [[Connected-AI-Trend]] — Industry analysis, Morgan Stanley/Altruist/Hazel context, gap analysis, positioning evolution
+  - Created [[Connected-AI-Implementation-Plan]] — Technical roadmap for Phase 2 (CRM integration), Phase 3 (connected workflows), schema design, security model
+  - Updated [[Research-Digest]] — Added "Connected AI Positioning" section with key messaging
+  - Updated [[Current-Sprint]] — Added connected AI positioning as item 2 in next-up roadmap
+  - Updated [[INDEX.md]] — Added two new research files to Strategy subsection
+
 - **Comprehensive self-optimization** (deep audit session):
   - CLAUDE.md rewrite: Added gap-filler positioning, architecture map, full MCP table (11 servers), skills table, vault context rules by task type, active clients section. ~120 lines, ~1200 tokens.
   - Removed 5 redundant MCPs: sequential-thinking, memory, fetch, context-mode, resend (empty API key)

@@ -161,6 +161,8 @@
 - [[Conference-Calendar]] — 30+ events in 2026, relevance scores, budget estimates
 
 ### Strategy
+- [[Connected-AI-Trend]] — Connected AI industry analysis and positioning strategy (2026-03-16)
+- [[Connected-AI-Implementation-Plan]] — Technical roadmap for CRM integration (2026-03-16)
 - [[Product-Strategy-Pivot]] — Template audit, gap-filler repositioning (2026-03-14)
 - [[Advisor-Existing-Systems]] — What systems advisors already use
 - [[AI-Gap-Analysis]] — Market gaps in advisor AI tools

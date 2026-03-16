@@ -79,6 +79,16 @@ tags: [digest, quick-ref, cron-agent, intelligence]
 5. **Most competitors under-invest in content marketing** — only Altruist does it well
 6. **Jump has app reliability complaints; Holistiplan doubled prices; eMoney has 12-month lock-in**
 
+## Connected AI Positioning
+
+The industry is moving toward connected AI (Hazel, Morgan Stanley, Jump). Our position:
+- **We're the communication layer** — connected AI synthesizes data, we create the content clients receive
+- **Templates get better with connections** — CRM context auto-fills placeholders, producing richer output
+- **We complement, not compete** — Hazel + AI = data intelligence. We = communication intelligence.
+- **Wirehouses are our TAM advantage** — 50% of advisors can't use Hazel due to compliance restrictions
+- **Timeline**: Copy-paste today → CRM-enriched next → fully connected future
+- Don't position as competitive with Hazel/Jump — always complementary
+
 ## LinkedIn Rules
 
 - Post from Christopher's personal profile (8-12% engagement) NOT company page (1-2%)

@@ -14,13 +14,14 @@
 
 ## Next Up (updated 2026-03-16)
 1. **DLK demo follow-up** — [[DLK-Deep-Dive]], [[Contact-Halby-Mark]]
-2. **Cri reviews Product Strategy Pivot** — [[Product-Strategy-Pivot]]
-3. If approved: implement category reorganization (prompts-data.json, dashboard-shell.tsx, landing page)
-4. Build Tier 1 new templates (CRM Note Writer, Action Item Extractor, Meeting Summary Email, Annual Review Meeting Prep)
-5. Configure pending env vars ([[Deployment]])
-6. Set up email sequences (Resend integration)
-7. Blog launch for SEO
-8. LinkedIn content strategy execution
+2. **Connected AI positioning** — Add roadmap page, landing page section, compare page section. See [[Connected-AI-Trend]] and [[Connected-AI-Implementation-Plan]]
+3. **Cri reviews Product Strategy Pivot** — [[Product-Strategy-Pivot]]
+4. If approved: implement category reorganization (prompts-data.json, dashboard-shell.tsx, landing page)
+5. Build Tier 1 new templates (CRM Note Writer, Action Item Extractor, Meeting Summary Email, Annual Review Meeting Prep)
+6. Configure pending env vars ([[Deployment]])
+7. Set up email sequences (Resend integration)
+8. Blog launch for SEO
+9. LinkedIn content strategy execution
 
 ## Related Notes
 - [[Backlog]] — Full priority list

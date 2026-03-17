@@ -86,6 +86,16 @@ domain: marketing
 | Blog | "AI for RIAs: A Practical Guide to Getting Started in 2026" (outline, ~1,200 words) | [[2026-03-16 blog]] | Outline — target publish week of 3/23 |
 | Email | Onboarding Email 4: Compliance Trust / Day 3 ("Is this compliant?") | [[2026-03-16 email]] | Draft — pending Resend setup |
 
+### 2026-03-17 (Monday)
+
+| Channel | Content | File | Status |
+|---------|---------|------|--------|
+| LinkedIn | Post 1: "You Don't Need Another AI Tool" (carousel/document, 7 slides — consulting pivot positioning) | [[2026-03-17 linkedin]] | Draft — schedule Tue 3/18 |
+| LinkedIn | Post 2: "The Question That Changed Everything" (text-only personal story — pivot narrative) | [[2026-03-17 linkedin]] | Draft — schedule Wed 3/19 |
+| LinkedIn | Post 3: "How to Turn Meeting Notes Into a Follow-Up Email in 90 Seconds" (educational how-to) | [[2026-03-17 linkedin]] | Draft — schedule Thu 3/20 |
+| Blog | "Why Financial Advisors Need an AI Consultant — Not Another AI Tool" (outline, ~1,300 words, keyword: "AI consulting for financial advisors") | [[2026-03-17 blog]] | Outline — target publish week of 3/23 |
+| Email | Onboarding Email 5: The Consulting Difference / Day 5 (toolkit → consulting relationship bridge) | [[2026-03-17 email]] | Draft — pending Resend setup |
+
 ## Related Notes
 - [[Marketing-Strategy]] — Overall strategy
 - [[LinkedIn-Playbook]] — LinkedIn specifics

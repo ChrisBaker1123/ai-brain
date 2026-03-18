@@ -96,6 +96,16 @@ domain: marketing
 | Blog | "Why Financial Advisors Need an AI Consultant — Not Another AI Tool" (outline, ~1,300 words, keyword: "AI consulting for financial advisors") | [[2026-03-17 blog]] | Outline — target publish week of 3/23 |
 | Email | Onboarding Email 5: The Consulting Difference / Day 5 (toolkit → consulting relationship bridge) | [[2026-03-17 email]] | Draft — pending Resend setup |
 
+### 2026-03-18 (Tuesday)
+
+| Channel | Content | File | Status |
+|---------|---------|------|--------|
+| LinkedIn | Post 1: "The Advisor's 90-Day AI Roadmap" (carousel/document, 8 slides — implementation framework) | [[2026-03-18 linkedin]] | Draft — schedule Tue 3/24 |
+| LinkedIn | Post 2: "Two Languages" (text-only personal story — bilingual positioning) | [[2026-03-18 linkedin]] | Draft — schedule Wed 3/25 |
+| LinkedIn | Post 3: "How to Create a Client Welcome Email in 2 Minutes with AI" (educational how-to — onboarding category) | [[2026-03-18 linkedin]] | Draft — schedule Thu 3/26 |
+| Blog | "How to Use Microsoft Copilot as a Financial Advisor: A Practical Guide" (outline, ~1,400 words, keyword: "Microsoft Copilot for financial advisors") | [[2026-03-18 blog]] | Outline — target publish week of 3/30 |
+| Email | Onboarding Email 6: Week One Check-In / Day 7 (soft re-engage, surface objections, drive to call) | [[2026-03-18 email]] | Draft — pending Resend setup |
+
 ## Related Notes
 - [[Marketing-Strategy]] — Overall strategy
 - [[LinkedIn-Playbook]] — LinkedIn specifics

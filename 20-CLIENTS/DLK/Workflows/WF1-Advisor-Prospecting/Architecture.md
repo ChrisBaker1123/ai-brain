@@ -49,17 +49,32 @@ client: DLK
 
 ## Data Sources — Research Findings
 
-### 1. SEC IAPD Bulk Data (Primary)
+### 1. SEC Monthly IA Information Reports (Primary — Best Free Source)
 
-**URL**: https://adviserinfo.sec.gov/compilation
-**Format**: Monthly ZIP files containing spreadsheets
-**Content**: All SEC-registered investment adviser firms
-**Key fields**: CRD, legal name, AUM, state, registration date, SEC status
-**Cost**: Free
+**URL**: https://www.sec.gov/data-research/sec-markets-data/information-about-registered-investment-advisers-exempt-reporting-advisers
+**Also**: https://catalog.data.gov/dataset/information-about-registered-investment-advisers-and-exempt-reporting-advisers
+**Format**: Monthly ZIP containing XLSX/CSV spreadsheet
+**Files**: `ia{MMYYYY}.zip` (registered advisers), `ia{MMYYYY}-exempt.zip` (exempt reporting)
+**Content**: Full Form ADV Part 1 data for ALL SEC-registered firms
+**Key fields**:
+  - Item 1: Firm name, CRD, SEC file number, address, phone
+  - Item 3: Form of organization (LLC, Corp, Partnership, Sole Proprietor)
+  - Item 5.D: Client types with counts and RAUM per category
+  - Item 5.F: Total AUM (discretionary, non-discretionary, total)
+  - Item 5.G: Advisory activities (`Q5G2` = portfolio management for individuals)
+  - Item 7A: Financial industry affiliations (no BD affiliation = independent)
+  - Item 10: Control persons
+**Cost**: Free (public domain)
 **Update frequency**: Monthly
-**Access**: Direct download (may require browser — anti-bot protections on API)
 
-**Limitation**: Bulk data provides firm-level summary but NOT detailed Form ADV item-level data (investment types, Schedule A ownership). Need to query individual firms for detail.
+### 1b. SEC XML Compilation Feeds (Alternative Bulk Source)
+
+**URL**: `https://reports.adviserinfo.sec.gov/reports/CompilationReports/IA_FIRM_SEC_Feed_{MM_DD_YYYY}.xml.gz`
+**Also**: `IA_INDVL_Feed_{MM_DD_YYYY}.xml.zip` (individual advisers)
+**Format**: Gzipped XML with complete Form ADV Part 1A data
+**Content**: All SEC-registered firms, full ADV data structure
+**Cost**: Free
+**Individual ADV PDFs**: `https://reports.adviserinfo.sec.gov/reports/ADV/{CRD}/PDF/{CRD}.pdf`
 
 ### 2. IAPD REST API
 
@@ -79,13 +94,21 @@ client: DLK
 **Cost**: Free, no API key
 **Limitation**: Form ADV goes through IARD (not EDGAR). Limited ADV data in EDGAR.
 
-### 4. sec-api.io (Enriched, Structured)
+### 4. sec-api.io (Enriched, Structured — Best Paid Option)
 
 **URL**: https://sec-api.io
-**Format**: JSON REST API
+**Format**: JSON REST API (9 endpoints for Form ADV)
 **Content**: Structured Form ADV data including all items and schedules
-**Cost**: Free tier = 100 calls/month. Paid tiers from $25/month.
-**Key advantage**: Provides structured access to Item 5 (investment types) and Schedule A (ownership) — exactly what Don needs for filtering.
+**Cost**: Free tier = 100 calls. Paid: $49/mo (Personal), $199/mo (Business).
+**Database**: 41,000+ firm ADV filings, 380,000+ individual advisers, updated daily.
+**Key endpoints**:
+  - `POST /form-adv/firm` — Search by any ADV field (Lucene syntax)
+  - `GET /form-adv/schedule-a-direct-owners/{crd}` — Direct owners and officers
+  - `GET /form-adv/schedule-d-5-k/{crd}` — SMA asset categories (individual securities filter!)
+**Critical fields for Don's criteria**:
+  - **Item 5.K (Schedule D)**: SMA asset breakdown — `exchange-traded equity securities` and `non-exchange-traded equity securities` percentages identify individual stock managers
+  - **Schedule A**: Owner name, title, ownership code, entity type (individual vs. corp/trust), control person flag
+  - **Item 5.F**: `Q5F2C` = total RAUM (filterable: `Q5F2C:[150000000 TO 750000000]`)
 
 ### 5. SEC 13F Filings (Supplemental)
 
@@ -96,21 +119,24 @@ client: DLK
 
 ## Recommended Approach
 
-### Phase 1 (Now): Hybrid — IAPD bulk + API detail
-1. Download monthly IAPD compilation data (bulk CSV)
-2. Filter for CA, AUM range, SEC-registered
-3. For top candidates, query IAPD API for Form ADV detail
-4. Rate-limit API calls (2-second delays, max 200/day)
+### Phase 1 (Now — $0): Monthly SEC spreadsheet + IAPD API
+1. Download monthly IA Information Report from SEC data portal (`ia{MMYYYY}.zip`)
+2. Load spreadsheet into pandas, filter on Item 3 (org type), Item 5.F (AUM), Item 5.G (portfolio mgmt), Item 7A (no BD affiliation), address (CA)
+3. Extract CRD numbers for matching firms (~200-500 candidates)
+4. For top 50-100, query undocumented IAPD API (`api.adviserinfo.sec.gov/search/firm`) for enrichment
+5. Use respectful rate limiting (2-sec delay, User-Agent with contact email)
 
-### Phase 2 (If API blocked): sec-api.io
-1. Use sec-api.io free tier (100 calls/month) for structured ADV data
-2. Query by state, AUM, investment type
-3. Get Schedule A ownership data directly
+### Phase 2 (Week 2 — $0): Schedule A ownership + historical CSV
+1. Download historical Schedule A CSV from SEC FOIA page (covers through Dec 2024)
+2. Join on CRD to get direct owner names, entity types, control person flags
+3. Filter: keep only firms where owner entity type = individual person
+4. Extract principal names (control person = Y, or title = CEO/President/Managing Member)
 
-### Phase 3 (Production): Firecrawl + sec-api.io
-1. Use Firecrawl MCP to scrape IAPD search results at scale
-2. Use sec-api.io for enrichment of top candidates
-3. Cross-reference with 13F filings for investment style confirmation
+### Phase 3 (Month 2 — $49/mo): sec-api.io for investment type + live Schedule A
+1. Use sec-api.io Schedule D 5.K endpoint to get SMA asset category breakdowns
+2. Filter for high % in "exchange-traded equity securities" = individual stock managers
+3. Use live Schedule A endpoint for current ownership data
+4. Cross-reference with 13F filings for confirmation
 
 ## Infrastructure
 

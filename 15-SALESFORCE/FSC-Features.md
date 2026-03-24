@@ -25,7 +25,29 @@ created: 2026-03-24
 | Household Model | ❌ | ❌ | ❌ | ✅ |
 | Agentforce | ❌ | ❌ | Add-on | Add-on |
 
-**DLK likely has**: Professional or Enterprise (most common for ~$400M AUM firms with ~11 employees)
+**DLK likely has**: Enterprise or FSC Enterprise. Many RIAs this size use Salesforce with an overlay like Practifi, XLR8, or Salentica. Ask in Week 1 audit.
+
+**Important**: Process Builder and Workflow Rules were **retired Dec 31, 2025**. All new automation must use Flow Builder.
+
+## Third-Party Overlays for RIAs
+
+| Platform | Best For | Notes |
+|----------|----------|-------|
+| **Practifi** | Growing multi-advisor firms | Robust workflows, compliance tracking, eMoney integration |
+| **XLR8 (Concenter)** | Solo to mid-size | Lower complexity, good without dedicated SF admin |
+| **Salentica Elements** | Enterprise RIAs | Deep customization, 10+ users |
+
+**Advisor community consensus**: "Do not buy Salesforce without a pre-made overlay partner." Raw SF FSC requires significant admin expertise.
+
+## Schwab Advisor Center Integration
+
+Available on AppExchange (free app). Capabilities:
+- Daily data download (account details, balances, positions, alerts)
+- Account opening from Salesforce
+- SSO to Schwab from within Salesforce
+- Uses Schwab OpenView Gateway (Performance Technologies, Inc.)
+- Requires active Schwab custody relationship
+- **Daily batch sync** (not real-time)
 
 ## What We Need for DLK Workflows
 

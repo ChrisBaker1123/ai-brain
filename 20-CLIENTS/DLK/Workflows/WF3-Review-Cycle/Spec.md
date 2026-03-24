@@ -149,6 +149,22 @@ For in-person meetings (Mark's specific ask):
 9. Deploy to production
 10. Train team
 
+## Research Finding: Email Draft Challenge
+
+Salesforce has **no native "create draft email in user's inbox" action** in Flow. Options:
+1. **Task with template** (simplest): Create Task "Draft review email for [Client]" with template text in description. Advisor sends manually. **Recommended for MVP.**
+2. **Outlook API callout** (best UX): HTTP callout to Microsoft Graph API creates draft directly in Outlook. Requires Enterprise Edition + Connected App setup. 16-24 hours to build.
+3. **Agentforce** (AI-powered): "Draft or Revise Email" agent action generates personalized content. Requires Agentforce licensing ($2/conversation or $125/user/month add-on).
+
+## Research Finding: Meeting Transcription
+
+For in-person meetings (Mark's specific ask), top options:
+- **Zocks** ($67-184/mo): Does NOT record audio — stores only generated notes. Privacy-first. Mobile app for in-person. Integrates with Salesforce. **Best for compliance-sensitive firms.**
+- **Jump AI** (~20% advisor market share): Pre-meeting briefs, live transcription, post-meeting summaries. "Ask Anything" queries past meetings. Integrates with Salesforce.
+- **Fathom** ($29/mo): Free unlimited recording for individuals. High satisfaction. Zoom-centric.
+
+**Recommendation**: Zocks for DLK — the no-recording architecture is perfect for Don's compliance culture.
+
 ## Open Questions
 
 1. Are all client reviews on 90-day cycles, or do some clients have different intervals?
@@ -156,7 +172,7 @@ For in-person meetings (Mark's specific ask):
 3. How does Mark currently track meeting notes? (Written? Digital? None?)
 4. Is Tom's review process identical to Mark's?
 5. Would Don want to see a compliance report of overdue reviews?
-6. Budget for meeting transcription tool? (Otter.ai ~$100/year)
+6. Budget for meeting transcription tool? (Zocks ~$67-184/mo, Fathom ~$29/mo)
 
 ## Success Criteria
 

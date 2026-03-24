@@ -13,6 +13,8 @@ priority: high
 
 # Mark A. Halby, CFP®, AIF® — Financial Planner at DLK Investment Management
 
+> **Restructured**: Mark's DLK-specific profile is now at [[20-CLIENTS/DLK/People/Mark-Halby]]. This contact file preserved as the canonical contact record.
+
 > **Most important prospect.** DLK meeting coming up ~March 16. Don Dempster (compliance officer) was traveling in Europe, returning ~March 16. Cri connected through Fowler Scholars.
 
 ---

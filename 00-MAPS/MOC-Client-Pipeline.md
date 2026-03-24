@@ -9,11 +9,14 @@ domain: business
 
 # Client Pipeline
 
-All prospects, clients, and outreach efforts. Currently: 1 active client, 1 priority prospect, 3 Morgan Stanley contacts, 1 referral source.
+All prospects, clients, and outreach efforts. Hub-and-spoke architecture: [[00-ADVISOR-INTELLIGENCE/INDEX|Advisor Intelligence Hub]] is the sun.
 
 ## Pipeline Overview
 - [[Client-Pipeline]] — Full pipeline with stages, metrics, key patterns
-- [[DLK-Engagement]] — Priority prospect: ~$350M AUM RIA, Solana Beach
+- [[00-ADVISOR-INTELLIGENCE/INDEX|Advisor Intelligence Hub]] — Master business hub
+
+## Active Clients (Hub-and-Spoke)
+- [[DLK-HUB]] — DLK Investment Management ($348M–$435M AUM, Solana Beach) — **FIRST CLIENT**
 
 ## Active Clients
 - [[Contact-Jones-Will]] — Will Jones, CFP® at Wells Fargo (active, evaluating)

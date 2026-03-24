@@ -7,6 +7,8 @@ updated: 2026-03-16
 domain: outreach
 ---
 
+> **Restructured**: DLK content now lives in [[DLK-HUB]] (hub-and-spoke architecture). This deep dive is preserved as research reference.
+
 # Key Takeaways for Advisor Intelligence (March 16 Meeting)
 
 1. **DLK manages $348M-$435M across 470 clients with only 6 advisors (1:78 ratio)** -- they are capacity-constrained. AI-powered templates would directly multiply each advisor's output without adding headcount.

@@ -9,6 +9,8 @@ domain: outreach
 
 # DLK Investment Management Engagement
 
+> **Moved**: This note has been restructured. See [[DLK-HUB]] for the current client hub. Content below preserved for reference.
+
 #roadmap #client #prospect
 
 ## Firm Profile

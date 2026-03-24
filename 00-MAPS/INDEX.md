@@ -9,11 +9,17 @@ domain: business
 
 # Advisor Intelligence — Knowledge Vault
 
-> **Product**: AI template toolkit for financial advisors | **Founder**: Christopher Baker (SDSU)
+> **Business**: Fractional AI Officer for financial advisors | **Founder**: Christopher Baker (SDSU)
 > **Live**: https://www.advisorintelligence.app | **Phone**: (619) 851-2215
 
-## Maps of Content (Start Here)
-- [[MOC-Advisor-Intelligence]] — The main product: architecture, pages, components, database
+## The Sun (Start Here)
+- **[[00-ADVISOR-INTELLIGENCE/INDEX|Advisor Intelligence Hub]]** — Master business hub. Active clients, pipeline, revenue, templates.
+
+## The Planets (Clients)
+- **[[DLK-HUB]]** — DLK Investment Management ($348M–$435M AUM) — **FIRST CLIENT** (onboarding)
+
+## Maps of Content
+- [[MOC-Advisor-Intelligence]] — The product platform: architecture, pages, components, database
 - [[MOC-Client-Pipeline]] — Prospects, clients, outreach efforts
 - [[MOC-Product]] — Templates, features, UX, tech decisions
 - [[MOC-Marketing]] — LinkedIn, email, SEO, outreach strategy
@@ -38,6 +44,7 @@ domain: business
 ## Vault Structure
 | Folder | Contents | Count |
 |--------|----------|-------|
+| **00-ADVISOR-INTELLIGENCE** | **Business hub, templates, playbooks** | **NEW** |
 | 00-MAPS | Maps of Content, master index, changelog | 9 |
 | 01-AXIOMS | Foundational beliefs | 9 |
 | 02-PRINCIPLES | Derived behaviors | 7 |
@@ -48,7 +55,10 @@ domain: business
 | 07-CONTACTS | People (clients, prospects, mentors) | 12 |
 | 08-REFERENCE | Research, competitors, market data | 42 |
 | 09-PLANS | Roadmaps, sprints, strategies | 7 |
+| **10-INDUSTRY** | **RIA economics, AI adoption, regulatory, competitors** | **NEW** |
 | 10-DRAFTS | Content drafts (LinkedIn, blog, email) | 17 |
 | 11-LOGS | Session logs, monitor logs, playbooks | 16 |
 | 12-PERSONAL | Identity, family, values, biography | 12 |
+| **15-SALESFORCE** | **FSC features, Flow patterns, integration guides** | **NEW** |
+| **20-CLIENTS** | **Client engagement planets (DLK first)** | **NEW** |
 | 99-META | Templates, conventions, vault management | 3+ |

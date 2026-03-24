@@ -106,6 +106,16 @@ domain: marketing
 | Blog | "How to Use Microsoft Copilot as a Financial Advisor: A Practical Guide" (outline, ~1,400 words, keyword: "Microsoft Copilot for financial advisors") | [[2026-03-18 blog]] | Outline — target publish week of 3/30 |
 | Email | Onboarding Email 6: Week One Check-In / Day 7 (soft re-engage, surface objections, drive to call) | [[2026-03-18 email]] | Draft — pending Resend setup |
 
+### 2026-03-24 (Monday)
+
+| Channel | Content | File | Status |
+|---------|---------|------|--------|
+| LinkedIn | Post 1: "5 Signs Your Firm Is Ready for AI Consulting" (carousel/document, 7 slides — diagnostic self-assessment) | [[2026-03-24 linkedin]] | Draft — schedule Tue 3/31 |
+| LinkedIn | Post 2: "What a 20-Year-Old Knows About Your Practice" (text-only personal story — addressing age objection) | [[2026-03-24 linkedin]] | Draft — schedule Wed 4/1 |
+| LinkedIn | Post 3: "How to Build a Client Newsletter in 3 Minutes with AI" (educational how-to — content creation category) | [[2026-03-24 linkedin]] | Draft — schedule Thu 4/2 |
+| Blog | "The Copy-Paste Approach to AI: Why Your Client Data Should Never Touch AI" (outline, ~1,400 words, keyword: "compliance-safe AI financial advisor") | [[2026-03-24 blog]] | Outline — target publish week of 4/6 |
+| Email | Onboarding Email 7: The 10-Hour Question / Day 10 (final in 7-email sequence — conversion push) | [[2026-03-24 email]] | Draft — pending Resend setup |
+
 ## Related Notes
 - [[Marketing-Strategy]] — Overall strategy
 - [[LinkedIn-Playbook]] — LinkedIn specifics

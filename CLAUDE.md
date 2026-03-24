@@ -152,3 +152,14 @@ When creating content that represents Cri:
 - **Never use** "guaranteed," "proven," "risk-free," "#1," "best"
 - **Never leak** the 3-phase plan or family details into public content
 - See [[04-RULES/index]] for the full list
+
+## Session Journaling (Non-Negotiable)
+
+At the END of every Claude Code session, before the final git commit:
+1. Create or update today's journal entry in `30-SESSION-JOURNAL/YYYY-MM-DD/`
+2. Log what was done, what was learned, what's still open
+3. Update `30-SESSION-JOURNAL/LEARNINGS.md` with any new insights
+4. Update `30-SESSION-JOURNAL/INDEX.md` with the new entry
+5. Include the journal files in the git commit
+
+Every session gets documented. No exceptions. This is how we build institutional memory.

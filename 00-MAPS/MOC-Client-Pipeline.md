@@ -3,7 +3,7 @@ type: moc
 title: "Map of Content — Client Pipeline"
 status: active
 created: 2026-03-16
-updated: 2026-03-16
+updated: 2026-03-24
 domain: business
 ---
 
@@ -16,26 +16,28 @@ All prospects, clients, and outreach efforts. Hub-and-spoke architecture: [[00-A
 - [[00-ADVISOR-INTELLIGENCE/INDEX|Advisor Intelligence Hub]] — Master business hub
 
 ## Active Clients (Hub-and-Spoke)
-- [[DLK-HUB]] — DLK Investment Management ($348M–$435M AUM, Solana Beach) — **FIRST CLIENT**
+- [[DLK-HUB]] — DLK Investment Management ($348M–$435M AUM, Solana Beach) — **FIRST CLIENT** (onboarding, $1,250/mo)
 
-## Active Clients
-- [[Contact-Jones-Will]] — Will Jones, CFP® at Wells Fargo (active, evaluating)
+## DLK Key People
+- [[20-CLIENTS/DLK/People/Don-Dempster|Don Dempster]] — CEO/CCO, M&A prospecting, compliance
+- [[20-CLIENTS/DLK/People/Mark-Halby|Mark Halby]] — CFP, Salesforce automation champion
+- [[20-CLIENTS/DLK/People/Ted-Research|Ted Kay]] — Research, portfolio monitoring
+- [[20-CLIENTS/DLK/People/Brian-Trading|Brian Johnson]] — Trading, rebalancing
+- [[20-CLIENTS/DLK/People/Tom-CFP|Tom Brenner]] — CFP, same needs as Mark
+
+## Evaluating / Warm
+- [[Contact-Jones-Will]] — Will Jones, CFP at Wells Fargo (active, evaluating toolkit)
 - [[Client-Will]] — Additional research on Will Jones
 
-## Priority Prospects
-- [[Contact-Halby-Mark]] — Mark Halby, CFP®/AIF® at DLK (meeting ~March 16)
-- [[Client-Mark-Halby]] — Full ADV research
-- [[DLK-Deep-Dive]] — Comprehensive firm analysis
-
-## Morgan Stanley Cluster
+## Morgan Stanley Cluster (Personal Coaching Only)
 - [[Contact-Baker-Anthony]] — Anthony Baker (30yr MS veteran, Cri's father)
-- [[Client-Anthony-Baker]] — ADV research
 - [[Contact-Fitzpatrick-Jane]] — Jane Fitzpatrick, VP (Forbes 2026)
 - [[Contact-Mehrer-Tim]] — Tim Mehrer, Family Wealth Advisor
-- [[Client-Tim]] — Tim Mehrer research
 
 ## Referral Sources
 - [[Client-Jaden-Matson]] — Jaden Matson, Apartment Realty Group
+- [[Mentor-Dan-Skiles]] — Altruist network, RIA referrals
+- [[Mentor-Mark-Linder]] — Fowler/SDSU network, business leader referrals
 
 ## Outreach Strategy
 - [[Outreach-Playbook]] — Cold email templates, LinkedIn sequences
@@ -46,3 +48,10 @@ All prospects, clients, and outreach efforts. Hub-and-spoke architecture: [[00-A
 ## Key Decisions
 - [[2026-03-phone-number-on-site]] — Founder accessibility
 - [[niche-then-expand]] — San Diego first, then national
+
+## Revenue
+| Metric | Value |
+|--------|-------|
+| MRR | $1,250 |
+| ARR (projected) | $15,000 |
+| Pipeline value | TBD (Will, MS cluster) |

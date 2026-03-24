@@ -48,13 +48,22 @@ updated: 2026-03-24
 
 | Document | Purpose |
 |----------|---------|
-| [[Business-Model]] | Service definition, pricing, positioning |
+| [[Business-Model]] | Service definition, pricing, positioning, competitive moat |
 | [[Service-Playbook]] | Onboarding steps, month 1 structure, retainer cadence |
-| [[Pricing-Framework]] | Tier math, negotiation floor, ROI justification |
+| [[Pricing-Framework]] | Tier math, market comparables, negotiation floor, ROI justification |
 | [[Sales-Process]] | Lead → close process, discovery questions, objection handling |
-| [[Competitive-Landscape]] | Hazel, Jump, Zeplyn, Agentforce, Pulse360, FP Alpha |
+| [[Competitive-Landscape]] | Hazel, Jump, Zocks, Zeplyn, Agentforce, Pulse360, FP Alpha, CogniCor |
 | [[Compliance-Framework]] | AI usage policies, SEC/FINRA, vendor due diligence |
-| [[00-ADVISOR-INTELLIGENCE/Tech-Stack\|Tech-Stack]] | Our tools: Claude Code, VPS, Supabase, Obsidian, GitHub |
+| [[00-ADVISOR-INTELLIGENCE/Tech-Stack\|Tech Stack]] | Our tools: Claude Code, n8n, VPS, Supabase, Obsidian, GitHub |
+| [[Business-Infrastructure]] | LLC, banking, insurance, env vars, pending setup |
+
+## Technical Guides
+
+| Guide | Purpose |
+|-------|---------|
+| [[n8n-Deployment-Guide]] | Docker production setup, backups, monitoring |
+| [[CA-Licensing-Research]] | California requirements for tech consultants |
+| [[EO-Insurance-Research]] | E&O coverage options for consulting |
 
 ## Templates
 
@@ -68,11 +77,11 @@ updated: 2026-03-24
 
 ## Shared Knowledge Rings
 
-| Domain | Hub |
-|--------|-----|
-| [[10-INDUSTRY/RIA-Economics\|RIA Industry]] | Economics, adoption data, regulatory landscape |
-| [[15-SALESFORCE/FSC-Features\|Salesforce]] | FSC features, Flow patterns, integration guides |
-| [[08-REFERENCE/Research-Digest\|Research]] | Market research, competitor intel |
+| Domain | Hub | Notes |
+|--------|-----|-------|
+| [[10-INDUSTRY/RIA-Economics\|RIA Industry]] | Economics, AI adoption, workflow, regulatory, competitor tools | 12+ notes |
+| [[15-SALESFORCE/FSC-Features\|Salesforce]] | FSC features, pricing, Flow patterns, n8n integration | 5+ notes |
+| [[08-REFERENCE/Research-Digest\|Research]] | Market research, competitor intel | 42+ notes |
 
 ## Navigation
 
@@ -81,6 +90,7 @@ updated: 2026-03-24
 - **Find a template**: `00-ADVISOR-INTELLIGENCE/Templates/`
 - **Find industry research**: `10-INDUSTRY/`
 - **Find Salesforce patterns**: `15-SALESFORCE/`
+- **Find session records**: `30-SESSION-JOURNAL/`
 
 ---
 
@@ -90,3 +100,4 @@ updated: 2026-03-24
 - [[MOC-Advisor-Intelligence]] — Product/platform MOC
 - [[MOC-Marketing]] — Marketing strategy
 - [[MOC-Research]] — Research hub
+- [[30-SESSION-JOURNAL/INDEX|Session Journal]] — Session records
